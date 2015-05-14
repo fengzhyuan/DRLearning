@@ -1,0 +1,6785 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                          
+                            < M A T L A B (R) >
+ 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+learning episode:1
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:55.5,mscore:-96.7,mcomp:0.0285714,mwin:0
+
+learning episode:2
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 est:
+1 2 3 2 3 4 8 5 5 6 7 4 7 8 9 8 10 9 mstep:55.5,mscore:-96.7,mcomp:0.0285714,mwin:0
+
+learning episode:2
+1 10 mstep:55.5,mscore:-96.7,mcomp:0.0285714,mwin:0
+
+learning episode:2
+1 2 9 3 6 4 7 
+test:
+1 2mstep:781.2,mscore:-468,mcomp:0.758039 10 mstep:225.4,mscore:-144.6,mcomp:0.3,mwin:0
+
+learning episode:3
+1 2 3 4 5 6 mstep:781.2,mscore:-468,mcomp:0.758036,mwin:0
+
+learning episode:2
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:1356.9,mscore:-903.7,mcomp:0.990179,mwin:0.4
+
+learning episode:2
+1 2 3 4 5 6 7 8 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:224.2,mscore:-92.2,mcomp:0.415179,mwin:0
+
+learning episode:4
+1 2 3 4 5 6 7 8 9 10 8 9 10 1 2 3 4 ing..
+5 6 7 t:
+1 
+test:
+1 2 2 3 3 4 mstep:1433.5,mscore:-1051.1,mcomp:0.909821,mwin:0
+
+learning episode:3
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+tep:203.7,mscore:-100.9,mcomp:0.348214,mwin:0
+
+learning episode:5
+1 2 ,mcomp:0.3,mwin:0
+
+learning episode:3
+1 2 9 3 10  4 5 5 6 5 6 7 8 9 10 
+off-line training..
+ning..
+5 ff-line training..
+mstep:1433.5,mscore:-1051.1,mcomp:0.909821,mwin:0
+
+learning episode:3
+1 2 3 4 5 6 7 8 93 4 5 6 -line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:357,mscore:-150.2,mcomp:0.583929,mwin:0
+
+learning episode:6
+1 2 3 4 5 6 ining..
+.
+7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 
+1 4 5 6 7  2 3 mstep:729 10 mstep:218.6,mscore:-48.6,mcomp:0.499107,mwin:0
+
+learning episode:7
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+comp:0.415179,mwin:0
+
+learning episode:4
+1 2 mstep:224.2,mscore:-92.2,mcomp:0.415179,mwin:0
+
+learning episode:4
+1 2 3 4 3 5 4 5 6 6 7 8 7 10  10 9 10 mstep:995,mscore:-620mstep:983.1,mscore:-594.6,mcomp:0.926786,mwin:0.1
+
+learning episode:5
+1 2 3 4 4 5 6 7 8 9 10 
+off-line training..
+ng..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:184.7,mscore:47.7,mcomp:0.595536,mwin:0
+
+learning episode:8
+1 2 3 4 5 6 3 4 5 6 7 8 9 10 e training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:411.4,mscore:42.1,mcomp:0.985714,mwin:0.5
+
+learning episode:6
+1 2 3 4 5 6 7 8 9 10 
+o9 10 
+off-line traini6 7 8 6 7 8 
+tes6 7  2 3 4 5 6 7 8 9 10 mstep:74.7,mscore:-0.3,mcomp:0.272321,mwin:0
+
+learning episode:9
+1 2 3 4 -100.9,mcomp:0.348214,mwin:0
+
+learning episode:5
+1 2 5 6 7 4 9 10 
+off-line training..
+5 6 7 8 5 9 6 7 10 8 
+off-line training..
+8 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:181.6,mscore:150.9,mcomp:0.783036,mwin:0.3
+
+learning episode:10
+1 2 3 4 5 6 7 8 9 7 8 9 10 mstep:411.4,mscore:42.1,mcomp:0.985714,mwin:0.5
+
+learning episode:6
+1 2 3 4 5 6 7 8 10 
+off-line training..
+9 10 
+test:
+1 2 3 ining..
+3 4 5 6 7 8 9 10 mstep:238.1,mscore:251.6,mcomp:0.996429,mwin:0.7
+
+learning episode:8
+1 2 3 4 5 6 
+test:
+1 2 3 4 ine training..
+
+test:
+1 2 est:
+1 3 
+test:
+1 2 3 4 5 6 7 8 96 7 8 9 p:173.8,mscore:214.9,mcomp:0.8875,mwin:0.1
+
+learning episode:12
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+,mcomp:0.941964,mwin:0.1
+
+learning episode:7
+1 2 3 4 5 6 7 tep:357,mscore:-150.2,mcomp:0.583929,mwin:0
+
+learning episode:6
+1 8 4 
+test:
+1 29 10 mstep:1419.4,mscore:-982.3,mcomp:0.952679,mwi10 
+off-line training..
+6
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:141.5,mscore:176.8,mcomp:0.695536,mwin:0.1
+
+learning episode:13
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:238.1,mscore:251.6,mcomp:0.996429,mwin:0.7
+
+learning episode:8
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:176.7,mscore:141.6,mcomp:0.782143,mwin:0.1
+
+learning episode:14
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:222.5,mscore:271.2,mcomp:0.969643,mwin:0.7
+
+learning episode:10
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+mstep:1476.
+test:
+1 3 056.8,mcomp:0.933036,mwin:0.1
+
+learning episode:7
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:150.7,mscore:183.9,mcomp:0.773214,mwin:0.2
+
+learning episode:15
+1 2 3 4 5 6 7 8 9 10 48.6,mcomp:0.499107,mwin:0
+
+learning episode:7
+1 
+off-line training..5 9 10 6 7 8 9 10 mstep:780.2,mscore:-325.2,mcomp:0.965179,mwin:0.4
+
+learning episode:9
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:150.2,mscore:188.1,mcomp:0.797321,mwin:0.1
+
+learning episode:16
+1 2 3 4 5 8 9 10 mstep:744.5,mscore:-303.5,mcomp:0.959821,mwin:0.4
+
+learning episode:8
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+e:315.1,mcomp:0.998214,mwin:0.9
+
+learning episode:12
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:222.5,mscore:271.2,mcomp:0.969643,mwin:0.7
+
+learning episode:10
+1 2 3 4 10 mstep:116.1,mscore:164,mcomp:0.659821,mwin:0.3
+
+learning episode:17
+1 2 3 4 5 6 7 8 9 10 7 8 9 10 mstep:175.4,mscore:275.1,mcomp:0.939286,mwin:0.7
+
+learning episode:13
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.8,mscore:274.8,mcomp:0.951786,mwin:0.6
+
+learning episode:18
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ mstep:184.7,mscore:47.7,mcomp:0.595536,mwin:0
+
+learning episode:8
+1 10 2 3 mstep:184.7,mscore:47.7,mcomp:0.595536,mwin:0
+
+learning episode:8
+1 2 3 
+test:
+1 2
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:176.4,mscore:295.2,mcomp:0.928571,mwin:0.8
+
+learning episode:11
+1 2 3 4 5 6 7 8 9 10 
+off-line t4 5 6 7 8 9 10 mstep:160.4,mscore:231.7,mcomp:0.869643,mwin:0.3
+
+learning episode:19
+1 2 3 4 5 6 mstep:310.2,mscore:158.5,mcomp:0.9625,mwin:0.5
+
+learning episode:10
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:191.2,mscore:315.1,mcomp:0.998214,mwin:0.9
+
+learning episode:12
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:163.5,mscore:261.9,mcomp:0.872321,mwin:0.6
+
+learning episode:20
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.4,mscore:275.1,mcomp:0.939286,mwin:0.7
+
+learning episode:13
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:138.5,mscore:236.7,mcomp:0.808929,mwin:0.4
+
+learning episode:16
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+.
+ 8 3 9 4 10 mstep:74.7,mscore:-0.3,mcomp:0.272321,mwin:0
+
+learning episode:9
+1 5 2 6 7 8 9 10 mstep:74.7,mscore:-0.3,mcomp:0.272321,mwin:0
+
+learning episode:9
+1 2 3 4 5 3 4 6 5 7 6 8 9 10 7 
+off-line training..
+8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175,mscore:309,mcomp:0.992857,mwin:0.8
+
+learning episode:17
+1 2 3 4 5 6 7 6 7 8 9 10 mstep:187.3,mscore:316.2,mcomp:0.991964,mwin:0.9
+
+learning episode:12
+1 2 3 4 5 6 7 8 9 10 raining..
+
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:176.8,mscore:285.7,mcomp:0.948214,mwin:0.7
+
+learning episode:18
+1 2 3 4 5 6 7 5 6 7 8 9 10 mstep:176.3,mscore:287.4,mcomp:0.946429,mwin:0.7
+
+learning episode:23
+1 2 3 4 5 6 7 8 7 8 9 10 mstep:166.2,mscore:332.6,mcomp:0.976786,mwin:0.8
+
+learning episode:15
+1 2 3 4 5 8 9 10 mstep:166.6,mscore:244,mcomp:0.875893,mwin:0.6
+
+learning episode:13
+1 2 3 2 3 
+off-line training..
+re:150.9,mcomp:0.783036,mwin:0.3
+
+learning episode:10
+1 4 2 7 8 9 10 
+off-line training..
+ne training..
+8 9 10 
+off-line training..
+
+test:
+1 2 
+test:
+1  8 9 10 mstep:178.5,mscore:325.4,mcomp:0.997321,mwin:0.9
+
+learning episode:19
+1 2 3 4 5 6 7 8 4 5 6 7 8 9 10 
+off-line train9 10 
+mstep:138.5,mscore:236.7,mcomp:0.808929,mwin:0.4
+
+learning episode:16
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:154.4,mscore:265.1,mcomp:0.875893,mwin:0.7
+
+learning episode:20
+1 2 3 4 5 7 8 9 10 mstep:158.7,mscore:253.1,mcomp:0.873214,mwin:0.6
+
+learning episode:25
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+e:79.3,mcomp:0.641071,mwin:0
+
+learning episode:11
+1 6 7 8 2 9 10 mstep:175.1,mscore:79.3,mcomp:0.641071,mwin:0
+
+learning episode:11
+1 3 4 2 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175,mscore:309,mcomp:0.992857,mwin:0.8
+
+learning episode:17
+1 2 3 4 5 6 7 2 3 4 5 6 7 8 9 10 
+off-line
+test:
+1 2 3
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:167.5,mscore:301.3,mcomp:0.927679,mwin:0.8
+
+learning episode:26
+1 2 3 4 5 6 7 8 9  training..
+10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:176.8,mscore:285.7,mcomp:0.948214,mwin:0.7
+
+learning episode:18
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:177.7,mscore:322.6,mcomp:0.957143,mwin:0.9
+
+learning episode:17
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:168.7,mscore:257.9,mcomp:0.892857,mwin:0.6
+
+learning episode:27
+1 2 3 4 5 6 7 8 9 10 :
+1 
+off-line training..
+g..
+tep:173.8,mscore:214.9,mcomp:0.8875,mwin:0.1
+
+learning episode:12
+1 7 8 9 2 10 3 mstep:173.8,mscore:214.9,mcomp:0.8875,mwin:0.1
+
+learning episode:12
+1 4 2 5 3 6 4 5 7 8 9 6 10 
+off-line training..
+
+tes
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:180.7,mscore:292.5,mcomp:0.963393,mwin:0.8
+
+learning episode:18
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mste9 10 mstep:159.6,mscore:313.7,mcomp:0.926786,mwin:0.7
+
+learning episode:23
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:154.4,mscore:265.1,mcomp:0.875893,mwin:0.7
+
+learning episode:20
+1 2 3 4 5 6 7 8 3 4 5 6 7 8 9 10 aining..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:168.2,mscore:330.1,mcomp:0.948214,mwin:0.9
+
+learning episode:24
+1 2 3 4 5 6 7 8 9 10 6 mstep:141.5,mscore:176.8,mcomp:0.695536,mwin:0.1
+
+learning episode:13
+1 
+off-line training..
+1.5,mscore:176.8,mcomp:0.695536,mwin:0.1
+
+learning episode:13
+1 4 5 6 7 2 3 8 9 4 5 10 6 7 8 
+off-line training..
+9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:184.7,mscore:306.9,mcomp:0.996429,mwin:0.8
+
+learning episode:21
+1 2 3 3 4 5 6 7 8 9 10 
+off-line training.3 4 5 6 7 8 9 10 mstep:143.6,mscore:264.6,mcomp:0.824107,mwin:0.6
+
+learning episode:25
+1 2 3 4 5 6 7 8 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:174.1,mscore:320.6,mcomp:0.94375,mwin:0.9
+
+learning episode:31
+1 2 3 4 5 6 7 8 9 10 
+off-line trainin5 6 7 8 9 10 mstep:173.9,mscore:331.1,mcomp:1,mwin:1
+
+learning episode:26
+1 2 3 isode:14
+1 4 5 6 7 8 9 10 
+off-line training..
+1.6,mcomp:0.782143,mwin:0.1
+
+learning episode:14
+1 9 10 m
+test:
+1 2 3 4 5 6 7 .7,mcomp:0.841071,mwin:0.7
+
+learning episode:22
+1 2 3 4 5 6 9 8 9 8 910 mstep:190.3,mscore:313.7,mcomp:0.9875,mwin:0.8
+
+learning episode:21
+1 2 3 4 5 6 7 8 9 10 raining..
+
+test:
+1 2 raining..
+3 4 5 6 7 8 9 10 mstep:160.9,mscore:279,mcomp:0.889286,mwin:0.7
+
+learning episode:32
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:182.2,mscore:325.8,mcomp:1,mwin:1
+
+learning episode:27
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:159.6,mscore:313.7,mcomp:0.926786,mwin:0.7
+
+learning episode:23
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:185.2,mscore:330.3,mcomp:0.996429,mwin:0.9
+
+learning episode:22
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:190.4,mscore:332.6,mcomp:1,mwin:1
+
+learning episode:33
+1 2 3 4 5 6 3 4 5 6 7 8 9 10 mstep:180.5,mscore:325.5,mcomp:1,mwin:1
+
+learning episode:28
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:168.2,mscore:330.1,mcomp:0.948214,mwin:0.9
+
+learning episode:24
+1 2 3 4 5 e:15
+1 2 6 7 7 6 8 9 10 0 
+off-line training..
+e:183.9,mcomp:0.773214,mwin:0.2
+
+learning episode:15
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:164.4,mscore:266.9,mcomp:0.877679,mwin:0.7
+
+learning episode:34
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:173.1,mscore:293.1,mcomp:0.939286,mwin:0.6
+
+learning episode:29
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:185.1,mscore:306.7,mcomp:0.972321,mwin:0.8
+
+learning episode:24
+1 2 3 4 5 4 5 6 7 8 9 10 
+off-line trainin9 10 mstep:187.4,mscore:286.2,mcomp:0.963393,mwin:0.8
+
+learning episode:35
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:179.8,mscore:339.2,mcomp:1,mwin:1
+
+learning episode:30
+1 2 3 4 5 6 7 8 
+test:
+1 -line training..
+2 3 4 5 6 7 8 
+test:
+1 9 2 3 
+test:
+1 2 0.2,mscore:188.1,mcomp:0.797321,mwin:0.1
+
+learning episode:16
+1 3 4 5 6 7 8 9 10 mstep:180.4,mscore:314.7,mcomp:0.994643,mwin:0.9
+
+learning episode:25
+1 2 9 10 mstep:173.9,mscore:331.1,mcomp:1,mwin:1
+
+learning episode:26
+1 2 3 4 5 6 7 8 9 10 
+off-line training.5 9 10 
+off-line training..
+ing..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:149.8,mscore:252,mcomp:0.851786,mwin:0.6
+
+learning episode:31
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:188.4,mscore:274,mcomp:0.958036,mwin:0.8
+
+learning episode:26
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:182.2,mscore:325.8,mcomp:1,mwin:1
+
+learning episode:27
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 e training..
+8 9 10 mstep:179.6,mscore:341.9,mcomp:0.996429,mwin:0.9
+
+learning episode:32
+1 2 3 4 5 6 7 8 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:44.7,mscore:-86.7,mcomp:0.0178571,mwin:0
+
+learning episode:38
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.7,mscore:276.8,mcomp:0.94375,mwin:0.7
+
+learning episode:27
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:180.5,mscore:325.5,mcomp:1,mwin:1
+
+learning episode:28
+1 2 3 
+1 2 3 off-line training..
+1 mstep:116.1,mscore:164,mcomp:0.659821,mwin:0.3
+
+learning episode:17
+1 2 2 3 3 4 4 4 5 7 4 6 7 10 7 8 mstep:116.1,mscore:164,mcomp:0.659821,mwin:0.3
+
+learning episode:17
+1 2 3 9   10 
+
+test:
+1 2 3 4 5 6 7 8 9 10 8 9 10 0.6,mscore:-122.6,mcomp:0.0178571,mwin:0
+
+learning episode:40
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:54.2,mscore:-96.2,mcomp:0.0178571,mwin:0
+
+learning episode:41
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 
+off-line training..
+ining..
+60.5,mscore:-102.5,mcomp:0.0178571,mwin:0
+
+learning episode:42
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 10 mstep:173.1,mscore:293.1,mcomp:0.939286,mwin:0.6
+
+learning episode:29
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:81,mscore:-123,mcomp:0.0178571,mwin:0
+
+learning episode:43
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:160.3,mscore:279.7,mcomp:0.917857,mwin:0.6
+
+learning episode:35
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:174.6,mscore:267.4,mcomp:0.916071,mwin:0.8
+
+learning episode:29
+1 2 3 4 2 3 4 5 6 7 8 9 10 mstep:94.5,mscore:-136.5,mcomp:0.0178571,mwin:0
+
+learning episode:45
+1 2 3 4 5 6 7 6 7 t:
+1 2 -line training..
+3 4 4 9 
+test:
+1 2 3 4 5 mscore:274.8,mcomp:0.951786,mwin:0.6
+
+learning episode:18
+1 6 9 10 mstep:179.8,mscore:339.2,mcomp:1,mwin:1
+
+learning episode:30
+1 2 3 4 5 6 7 8 9 10 mstep:50.65 6 7 8 9 10 
+off-line training..
+:0
+
+learning episode:46
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:62.9,mscore:-104.9,mcomp:0.0178571,mwin:0
+
+learning episode:47
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:93,mscore:-135,mcomp:0.0178571,mwin:0
+
+learning episode:48
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:149.8,mscore:252,mcomp:0.851786,mwin:0.6
+
+learning episode:31
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+omp:0.0178571,mwin:0
+
+learning episode:49
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 
+test:
+1 2 3 0 mstep:79.6,mscore:-121.6,mcomp:0.0178571,mwin:0
+
+learning episode:50
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:137.8,mscore:243.2,mcomp:0.801786,mwin:0.6
+
+learning episode:31
+1 2 3 4 5 6 7 4 8 9 9 
+te10 
+1 2 3 4 5 6 7 8 9 10 mcomp:0.869643,mwin:0.3
+
+learning episode:19
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:83.3,mscore:-125.3,mcomp:0.0178571,mwin:0
+
+learning episode:51
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:179.6,mscore:341.9,mcomp:0.996429,mwin:0.9
+
+learning episode:32
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ training..
+8 9 10 mstep:114.8,mscore:-156.8,mcomp:0.0178571,mwin:0
+
+learning episode:52
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:57.3,mscore:-99.3,mcomp:0.0178571,mwin:0
+
+learning episode:40
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:129,mscore:-171,mcomp:0.0178571,mwin:0
+
+learning episode:41
+1 2 3 4 5 4  6 7 8 9 10 
+off-line training..
+5 6 7 8 9 10 
+off-line training.4 5 6 7 8 9 10 mstep:180.2,mscore:281,mcomp:0.963393,mwin:0.8
+
+learning episode:33
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:92.1,mscore:-134.1,mcomp:0.0178571,mwin:0
+
+learning episode:42
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:89.1,mscore:-131.1,mcomp:0.0178571,mwin:0
+
+learning episode:43
+1 2 3 4 5 6 7 8 9
+test:
+1 line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:105,mscore:-147,mcomp:0.0178571,mwin:0
+
+learning episode:56
+1 2 3 4 5 6
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:60.8,mscore:-102.8,mcomp:0.0178571,mwin:0
+
+learning episode:44
+1 2 3 4 5 6 7 8 9 10 
+o7 3 4 e training..
+8 9  7 8 9 10 mstep:157.1,mscore:296.7,mcomp:0.915179,mwin:0.6
+
+learning episode:34
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:99.6,mscore:-141.6,mcomp:0.0178571,mwin:0
+
+learning episode:45
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:54.3,mscore:-96.3,mcomp:0.0178571,mwin:0
+
+learning episode:46
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:57.6,mscore:-99.6,mcomp:0.0178571,mwin:0
+
+learning episode:47
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+training..
+4 5 6 7 8 9 10 mstep:160.3,mscore:279.7,mcomp:0.917857,mwin:0.6
+
+learning episode:35
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:46.8,mscore:-88.8,mcomp:0.0178571,mwin:0
+
+learning episode:48
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:61.1,mscore:-103.1,mcomp:0.0178571,mwin:0
+
+learning episode:49
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+4 5 6 7 8 f-line training..
+9 
+test:
+1 10 2 mstep:157.3,mscore:249.8,mcomp:0.84375,mwin:0.5
+
+learning episode:21
+1 3 2 4 5 3 6 7 4 8 5 9 6 10 7 mstep:157.3,mscore:249.8,mcomp:0.84375,mwin:0.5
+
+learning episode:21
+1 2 8 
+test:
+test:
+1 2 3 4 5 6 7 8 9 10 ms8 9 t:
+1 2 3 4 5 6 7 8 9 10 mstep:180.2,mscore:303,mcomp:0.991071,mwin:0.8
+
+learning episode:35
+1 2 ain3 4 .
+5 6 7 8 9 10 mstep:179.9,mscore:307.3,mcomp:0.96875,mwin:0.8
+
+learning episode:36
+1 2 3 4 4 5 6 7 8 9 10 mstep:69.3,mscore:-111.3,mcomp:0.0178571,mwin:0
+
+learning episode:51
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+.
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:66.2,mscore:-108.2,mcomp:0.0178571,mwin:0
+
+learning episode:52
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:85.3,mscore:-127.3,mcomp:0.0178571,mwin:0
+
+learning episode:63
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:133.9,mscore:-175.9,mcomp:0.0178571,mwin:0
+
+learning episode:53
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:92.7,mscore:-134.7,mcomp:0.0178571,mwin:0
+
+learning episode:54
+1 2 3 4 7 8 9 10 mstep:189.1,mscore:323.9,mcomp:1,mwin:1
+
+learning episode:36
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:94.6,mscore:-136.6,mcomp:0.0178571,mwin:0
+
+learning episode:55
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:79.1,mscore:-121.1,mcomp:0.0178571,mwin:0
+
+learning episode:56
+1 2 3 4 5 6 7 8 9 4 5 off-line training..
+10 
+off-line training..
+ mstep:174.9,mscore:318.7,mcomp:0.959821,mwin:0.8
+
+learning episode:22
+1 
+test:
+1 2 3 4 5 6
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:54.1,mscore:-96.1,mcomp:0.0178571,mwin:0
+
+learnin
+test:
+1 2 3 4 510 
+off-line training..
+mscore:-161.2,mcomp:0.0178571,mwin:06 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:73.2,mscore:-115.2,mcomp:0.0178571,mwin:0
+
+learning episode:58
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:82.6,mscore:-124.6,mcomp:0.0178571,mwin:0
+
+learning episode:59
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:92.3,mscore:-134.3,mcomp:0.0178571,mwin:0
+
+learning episode:67
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:109.4,mscore:-151.4,mcomp:0.0178571,mwin:0
+
+learning episode:60
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:73.2,mscore:-115.2,mcomp:0.0178571,mwin:0
+
+learning episode:38
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:68.9,mscore:-110.9,mcomp:0.0178571,mwin:0
+
+learning episode:61
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:61.1,mscore:-103.1,mcomp:0.0178571,mwin:0
+
+learning episode:62
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:94.4,mscore:-136.4,mcomp:0.0178571,mwin:0
+
+learning episode:63
+1 2 3 4 5 6 7 8 9 10 10 mstep:100.9,mscor
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:69.7,mscore:-111.7,mcomp:0.0178571,mwin:0
+
+learning episode:4
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:88,mscore:-130,mcomp:0.0178571,mwin:0
+
+learning episode:64
+1 2 3 4 5 6 7 
+test:
+1 2 3 4 5 
+1 3 6 7 8 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:129,mscore:-171,mcomp:0.0178571,mwin:0
+
+learning episode:41
+1 2 3 4 5 6 7 g..
+8 9 10
+test:
+1 2 3 4 5 6 7 8 9 6 7 8 9 10 mstep:104,msco7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:47.7,mscore:-89.7,mcomp:0.0178571,mwin:0
+
+learning episode:72
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:95.5,mscore:-137.5,mcomp:0.0178571,mwin:0
+
+learning episode:73
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:113.5,mscore:-155.5,mcomp:0.0178571,mwin:0
+
+learning episode:67
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:89.1,mscore:-131.1,mcomp:0.0178571,mwin:0
+
+learning episode:43
+1 2 3 4 5 6 7 8 9  3 4 5 -line training..
+6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:116.7,mscore:-158.7,mcomp:0.0178571,mwin:0
+
+learning episode:44
+1 2 3 4  6 7  9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:45.1,mscore:-87.1,mcomp:0.0178571,mwin:0
+
+learning episode:76
+1 2 3 4 5
+test:
+1 2 3 4 5 6 7 8 9 ining..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:70.2,mscore:-112.2,mcomp:0.0178571,mwin:0
+
+learning episode:45
+1 2 3 4 5 6 7 ..
+8 10 
+test:
+1 mstep:196.3,mscore:316.7,mcomp:1,mwin:1
+
+learning episode:24
+1 9 10 
+of
+test:
+1 2
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:89,mscore:-131,mcomp:0.0178571,mwin:0
+
+learning episode:71
+1 2 3 4 5 6 7 8 9 10 
+off-line train6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:71.6,mscore:-113.6,mcomp:0.0178571,mwin:0
+
+learning episode:72
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:105.2,
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:54.3,mscore:-96.3,mcomp:0.0178571,mwin:0
+
+learning episode:46
+1 2 3 4 ne training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:111.1,mscore:-153.1,mcomp:0.0178571,mwin:0
+
+learning episode:73
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:74.1,mscore:-116.1,mcomp:0.0178571,mwin:0
+
+learning episode:79
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:104.5,mscore:-146.5,mcomp:0.0178571,mwin:0
+
+learning episode:74
+1 2 3 4 5 6 7 8 9  4 5 ff-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:68.1,mscore:-110.1,mcomp:0.0178571,mwin:0
+
+learning episode:80
+1 2 3 4 5 6 7 raining..
+8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:84.6,mscore:-126.6,mcomp:0.0178571,mwin:0
+
+learning episode:75
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:84,mscore:-126,mcomp:0.0178571,mwin:0
+
+learning episode:76
+1 2 3 4 5 6 10 mstep:67.4,mscore:-109.4,mcomp:0.0178571,mwin:0
+
+learning episode:82
+1 2 3 4 5 6 7 8 4 5 6 7 8 9 10 p:80.1,mscore:-122.1,mcomp:0.0178571,mwin:0
+
+learning episode:49
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:61.1,mscore:-103.1,mcomp:0.0178571,mwin:0
+
+learning episode:49
+1 2 3 3 4 5 6 5 6 8 9 10 
+off-line training..
+.
+t:
+1 2 3 4 5 .873214,mwin:0.6
+
+learning episode:25
+1 2 6 7 8 9 10 mstep:74.5,mscore:-5 6 7 
+1 2 3 4 5 6 7 8 win:0
+
+learning episode:50
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 10 tep:111.2,mscore:-153.2,mcomp:0.0178571,mwin:0
+
+learning episode:78
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:71.3,mscore:-113.3,mcomp:0.0178571,mwin:0
+
+learning episode:84
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:72.8,mscore:-114.8,mcomp:0.0178571,mwin:0
+
+learning episode:51
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:95,mscore:-137,mcomp:0.0178571,mwin:0
+
+learning episode:80
+1 2 3 4 5 6 7 8 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 1
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:69.3,mscore:-111.3,mcomp:0.0178571,mwin:0
+
+learning episode:51
+1 2 3 4 5 6 7 86 7 8 9 10 mstep:73.1,mscore:-115.1,mcomp:0.0178571,mwin:0
+
+learning episode:81
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:62.9,mscore:-104.9,mcomp:0.0178571,mwin:0
+
+learning episode:87
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:75.8,mscore:-117.8,mcomp:0.0178571,mwin:0
+
+learning episode:88
+1 2 9 10 mstep:79.5,mscore:-121.5,mcomp:0.0178571,mwin:0
+
+learning episode:83
+1 2 3 4 5 6 
+test:
+1 2 3 -line training..
+
+test:
+1 2 3 4 
+test:
+1 2 3 4 5 p:69.5,mscore:-111.5,mcomp:0.0178571,mwin:0
+
+learning episode:89
+1 2 3 10 
+off-line training..
+6 7 8 9 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:77.7,mscore:-119.7,mcomp:0.0178571,mwin:0
+
+learning episode:54
+1 2 3 4 5 6 7 g..
+8 9 104 5 f-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:54.8,mscore:-96.8,mcomp:0.0178571,mwin:0
+
+learning episode:9
+tes
+test:
+1 2 3 6 7 8 9 10 line training..
+4 5 6 7 8 9 10 mstep:129.95 6 ore:-171.9,mcomp:0.0178571,mwin:0
+
+learning episode:85
+1 2 3 4 5 6 7 8 raining..
+7 10 
+off-line training..
+
+test:
+1 2 8 9 10 
+off-line training..
+mstep:47,mscore:-89,mcomp:0.0178571,mwin:0
+
+learning episode:55
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:130.6,mscore:-172.6,mcomp:0.0178571,mwin:0
+
+learning episode:92
+1 2 3 4  6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:81.5,mscore:-123.5,mcomp:0.0178571,mwin:0
+
+learning episode:56
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:61.2,mscore:-103.2,mcomp:0.0178571,mwin:0
+
+learning episode:93
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+4 e training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:49.8,mscore:-91.8,mcomp:0.0178571,mwin:0
+
+learning episode:88
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:66,mscore:-108,mcomp:0.0178571,mwin:0
+
+learning episode:94
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mste
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:58.8,mscore:-100.8,mcomp:0.0178571,mwin:0
+
+learning episode:89
+1 2 3 4 5
+test:
+1 2 3 4 5 6 7 8 9 
+test:
+1
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:73.2,mscore:-115.2,mcomp:0.0178571,mwin:0
+
+learning episode:58
+1 2 3 4 5 6 7 8 9 10 
+off-line tra
+test:
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:55.6,mscore:-97.6,mcomp:0.0178571,mwin:0
+
+learning episode:96
+1 2 3 4 5 6 7 8 9 10 
+off-line
+test:
+1 2 3 4 5 6 7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:62.5,mscore:-104.5,mcomp:0.0178571,mwin:0
+
+learning episode:91
+1 2 3 4 5 6 7 8 9 ..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:52.2,mscore:-94.2,mcomp:0.0178571,mwin:0
+
+learning episode:97
+1 2 3 4 8 9 10 mstep:168.7,mscore:257.9,mco
+test:
+1 2 3 4 5 6 7 8 9 10 ng episode:27
+1 2 3 mstep:97.7,mscore:-139.7,mcomp:0.0178571,mwin:0
+
+learning episode:92
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+g..
+8 9 9 
+test:
+1 2 3 4 5 6 re:257.9,mcomp:0.892857,mwin:0.6
+
+learning episode:27
+1 10 7 8 9 10 mstep:58.8,msc3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:52.1,mscore:-94.1,mcomp:0.0178571,mwin:0
+
+learning episode:605 6 7 8 9 10 mstep:67.7,mscore:-109.7,mcomp:0.0178571,mwin:0
+
+learning episode:93
+1 2 3 4 5 7 8 9 10 0 
+off-line training..
+ine training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:115.7,mscore:-157.7,mcomp:0.0178571,mwin:0
+
+learning episode:99
+1 2 3 4 5 6 7 8 9 
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+learning episode:1
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+         
+                    8 9 10 
+off-line training..
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo10 
+off-line training..
+n, visit www.mathworks.com.
+ 
+
+learning episode:1
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:71.5,pscore:-109.9,pcomplete:0.0348214
+
+learning episode:2
+1 2 3 5 6 7 8 9 10 mstep:225.4,mscore:-144.6,mcomp:0.3,mwin:0
+
+learning episode:3
+1 2 3 4 5 6 7 8 9 10 mstep:225.4,mscore:-144.6,mcomp:0.3,mwin:0
+
+learning episode:3
+1 2 3 4 5 6 7 f-line training..
+pwin:0,pstep:71.7,pscore:-110.5,pcomplete:0.0339286
+
+learning episode:3
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:-92.2,mcomp:0.415179,mwin:0
+
+learning episode:4
+1 2 off-line training..
+
+test:
+1 9 10 mstep:224.2,mscore:-92.2,mcomp:0.415179,mwin:0
+
+learning episode:4
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+mcomp:0.415179,mwin:0
+
+learning episode:4
+1 2 3 4 5 5 6 7 10 
+off-line training..
+e]   3 4 5 double]
+
+pwin:0,pstep:67.95,pscore:-107.15,pcomplete:0.0330357
+
+learning episode:5
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:66.4,pscore:-106.16,pcomplete:0.0317857
+
+learning episode:6
+1 2 3 9 10 mstep:203.7,mscore:-100.9,mcomp:0.348214,mwin:0
+
+learning episode:5
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8667,pscore:-101.733,pcomplete:0.0315476
+
+learning episode:7
+1 2 3 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8,pscore:-100.971,pcomplete:0.0308673
+
+learning episode:8
+1 pwin:010 
+off-line training..
+,pcomplete:0.895089
+
+learning episode:3
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:59.975,pscore:-100.375,pcomplete:0.0303571
+
+learning episode:9
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0667,pscore:-101.644,pcomplete:0.0299603
+
+learning episode:10
+1 4 5 6 7 8 9 10 mstep:222.2,mscore:-42.2,mcomp:0.51875,mwin:0
+
+learning episode:7
+1 2 3 4 5 pwin:0.666667,pstep:284.567,pscore:145.233,pcomplete:0.915476
+
+learning episode:4
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.26,pscore:-101.82,pcomplete:0.03
+
+learning episode:11
+1 2 3 4 pwin:0.666667,pstep:284.567,pscore:145.233,pcomplete:0.915476
+
+learning episode:4
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:1127 8 9 10 mstep:112.5,mscore:32.3,mcomp:0.414286,mwin:0
+
+learning episode:8
+1 2 3 4 5 6 7 8 ining..
+8 9 10 
+off-line training..
+4 5 6 7 8 9 10 mstep:112.5
+test:
+1 2 3 4 5 6 7 8 9 10 mwin:0
+
+learning episode:8
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.7083,pscore:-103.375,pcomplete:0.0297619
+
+learning episode:13
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ing..
+9 pwin:0,pstep:63.7846,pscore:-104.554,pcomplete:0.029533
+
+learning episode:14
+1 2 3 4 5 pwin:0.65,pstep:253.625,pscore:176.475,pcomplete:0.911384
+
+learning episode:5
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:100.3,mscore:pwin:0,pstep:63.5786,pscore:-104.264,pcomplete:0.0297194
+
+learning episode:15
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.64,pstep:237.76,pscore:201.32,pcomplete:0.920714
+
+learning episode:6
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+8 9 10 mstep:145.1,mscore:160.7,mc4 5 6 7 8 9 10 mstep:145.1,mscore:160.7,mcomp:0.708036,mwin:0.2
+
+learning episode:11
+1pwin:0.64,pstep:237.76,pscore:201.32,pcomplete:0.920714
+
+learning episode:6
+1 2 3 4 5 6 3 4 5 6 7 off-line training..
+5.55,pcomplete:0.0296317
+
+learning episode:17
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:141.7,mscore:197.3,mcomp:0.769643,mwin:0.2
+
+learning ep
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.6,pstep:227.783,pscore:210.85,pcomplete:0.930357
+
+learning episode:7
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.6,pstep:227.783,pscore:210.85,pcomplete:0.930357
+
+learning episode:7
+1 2 3 4 5 6 7 8 3 4 5 6 7 8 9 10 mstep:190.3,mscore:130.7,mcomp:0.748214,mwin:0.2
+
+learning episode:13
+1 2 3 4 5 6 7 8 9 10 
+off-li
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:63.4263,pscore:-103.911,pcomplete:0.0301692
+
+learning episode:20
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:137.1,mscore:221.4,mcomp:0.761607,mwin:0.3
+
+learning episode:14
+1 2 3 4 5 6 7 8 9 10 
+off-line training.7 8 9 10 mstep:137.1,mscore:221.4,mcomp:0.761607,mwin:0.3
+
+learning episode:14
+1 2 3 4 5 6 7 8 9 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 -104.69,pcomplete:0.0303997
+
+learning episode:22
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.5125,pstep:208.463,pscore:214.875,pcomplete:0.908147
+
+learning episode:3 4 5 6 7 8 9 10 mstep:177.3,mscore:286.7,mcomp:0.9375,mwin:0.8
+
+learning episode:15
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.5125,pstep:208.463,pscore:214.875,pcomplete:0.908147
+
+learning episode:9
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:144.9,mscore:245.1,mcomp:0.83125,mwin:0.4
+
+learning episode:16
+1 2 3 4 5 6 7 pwin:0,pstep:63.0391,pscore:-103.526,pcomplete:0.030163
+
+learning episode:24
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1375,pscore:-102.687,pcomplete:0.0300223
+
+learning episode:25
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:140.8,mscore:213.1,mcomp:0.764286,mwin:0.5
+
+learning episode:17
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pscore:224.778,pcomplete:0.912996
+
+learning episode:10
+1 2 3 4 5 mstep:140.8,mscore:213.1,mcomp:0.764286,mwin:0.5
+
+pwin:0,pstep:61.4808,pscore:-101.896,pcomplete:0.0303228
+
+learning episode:27
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0,pstep:61.937,pscore:-102.352,pcomplete:0.0303241
+
+learning episode:28
+1 2 3 4 5 6 7 4 5 6 7 8 9 10 mstep:152.8,mscore:248.6 7 8 9 10 mstep:152.8,mscore:248.9,mcomp:0.848214,mwin:0.5
+
+learning episode:18
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+learning episode:18
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.54,pstep:201.33,pscore:225.81,pcomplete:0.912054
+
+learning episode:pwin:0.554545,pstep:198.536,pscore:229.564,pcomplete:0.913231
+
+learning episode:12
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.6828,pscore:-101.986,pcomplete:0.0305727
+
+learning episode:30
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:150.3,mscore:245.1,mcomp:0.844643,mwin:0.6
+
+learning episod4 5 6 7 8 9 10 ms
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5267,pscore:-101.593,pcomplete:0.0311012
+
+learning episode:31
+1 2 3 4 5 pwin:0.554545,pstep:198.536,pscore:229.564,pcomplete:0.913231
+
+learning episode:12
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pscore:228.908,pcomplete:0.906994
+
+learning episode:13
+1 2 
+test:
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1839,pscore:-102.313,pcomplete:0.030962
+
+learning episode:32
+1 2 3 4 5 6 7 8 9 10 mstep:138.9,mscore:231,mcomp:0.772321,mwin:0.5
+
+learning episode:20
+1 2 3 4 5 6 7 8 9 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.4344,pscore:-102.622,pcomplete:0.0308315
+
+learning episode:33
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.541667,pstep:195.017,pscore:228.908,pcomplete:0.906994
+
+learning episode:13
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.3061,pscore:-102.5,pcomplete:0.0308171
+
+learning episode:34
+1 2 3 4 5 6 7 8 9 10 
+test:
+1 2 3 4 5 6 7 8 9 
+8,pscore:233.869,pcomplete:0.912637
+
+learning episode:14
+1 2 10 mstep:171,mscore:285,mcomp:0.927679,mwin:0.8
+
+learning episode:21
+1 2 3 4 5 6 7 8 9 10 
+off-line traini
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5647,pscore:-102.812,pcomplete:0.0306985
+
+learning episode:35
+1 2 3 4 5 6 7 
+test:
+1 2 3 4 e training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:198.2,mscore:280.9,mcomp:0.990179,mwin:0.9
+
+learning episod
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5686,pscore:-102.751,pcomplete:0.0308418
+
+learning episode:36
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+complete:0.915051
+
+learning episode:15
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0,pstep:62.525,pscore:-102.692,pcomplete:0.030878
+
+learning episode:37
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8568,pscore:-102.062,pcomplete:0.0307915
+
+learning episode:38
+1 2 3 4 5 6 7 8 9 pwin:0.573333,pstep:190.613,pscore:237.84,pcomplete:0.914762
+
+learning episode:16
+1
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.564286,pstep:192.421,pscore:235.914,pcomplete:0.915051
+
+learning episode:15
+1 2 3 4 5 6 7 8 9 10 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.56875,pstep:188.725,pscore:238.094,pcomplete:0.912779
+
+learning episode:17
+1 2 3 4 5 6 7 9 10 
+off-line training.mstep:145.8,mscore:250.8,mcomp:0.801786,mwin:0.6
+
+learning episode:24
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:63.0525,pscore:-103.252,pcomplete:0.0308036
+
+learning episode:41
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:165.9,mscore:236.7,mcomp:0.879464,mwin:0.6
+
+leapwin:0.56875,pstep:188.725,pscore:238.094,pcomplete:0.912779
+
+learning episode:17
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ epis
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.8905,pscore:-103.081,pcomplete:0.0308248
+
+learning episode:43
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.552941,pstep:186.447,pscore:237.224,pcomplete:0.908141
+
+learning episode:18
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mste10 
+off-line training..
+score:262.8,mcomp:0.883929,mwin:0.5
+
+learning episode:26
+1 2 3 isode:44
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.8955,pscore:-103.105,pcomplete:0.0307833
+
+learning episode:45
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.7111,pscore:-102.951,pcomplete:0.0307143
+
+learning episode:46
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:182.9,mscore:284.4,mcomp:0.961607,mwin:0.7
+
+learning episode:27
+1 2 3 3 4 5 6 7 8 ning episode:47
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 mstep:182.9,mscore:284.4,mcomp:0.961607,mwin:0.7
+
+learning episode:27
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.8255,pscore:-103.14,pcomplete:0.0305471
+
+learning episode:48
+1 2 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.555,pstep:183.885,pscore:239.69,pcomplete:0.907634
+
+learning episode:21
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.552632,pstep:184.758,pscore:239.184,pcomplete:0.907895
+
+learning episode:20
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.4245,pscore:-102.727,pcomplete:0.0305758
+
+learning episode:50
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:192.2,mscore:282.7,mcomp:0.969643,mwin:0.9
+
+learning episode:28
+1 2 3 4 5 pwin:0.566667,pstep:184.038,pscore:242.1,pcomplete:0.911735
+
+learning episode:22
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.196,pscore:-102.532,pcomplete:0.0305
+
+learning episode:51
+1 2 3 4 5 pwin:0.555,pstep:183.885,pscore:239.69,pcomplete:0.907634
+
+learning episode:21
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 20 double]    [1x20 double]
+
+:0.0306197
+
+learning episode:52
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.563636,pstep:182.809,pscore:242.718,pcomplete:0.910065
+
+learning episode:23
+1 2 3 4 5 pwin:0,pstep:62.3019,pscore:-102.61,pcomplete:0.030546
+
+learning episode:53
+1 2 3 4 5 6 7 8 9 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.566667,pstep:184.038,pscore:242.1,pcomplete:0.911735
+
+learning episode:22
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:179.6,mscore:262.8,mcomp:0.924107,mwin:0.8
+
+learning episode:30
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+mstep:179.6,mscore:262.8,mcomp:0.924107,mwin:0.8
+
+learning episode:30
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+e training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.563636,pstep:182.809,pscore:242.718,pcomplete:0.910065
+
+learning episode:23
+1 2 3 4 5 6 7 8 9 10 
+off-line trai
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.3036,pscore:-102.675,pcomplete:0.030405
+
+learning episode:57
+1 
+test:
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.4,mscore:300.3,mcomp:0.955357,mwin:0.7
+
+learning episode:31
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0561,pscore:-102.456,pcomplete:0.0303415
+
+learning episode:58
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.573913,pstep:182.739,pscore:245.574,pcomplete:0.913626
+
+learning episode:24
+1 2 3 4 5 6 7 8 pwin:0.568,pstep:179.94,pscore:245.476,pcomplete:0.907036
+
+learning episode:26
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1169,pscore:-102.531,pcomplete:0.
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:179,mscore:310.2,mcomp:0.941071,mwin:0.8
+
+learning episodepwin:0.579167,pstep:181.762,pscore:246.675,pcomplete:0.912165
+
+learning episode:25
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9467,pscore:-102.36,pcomplete:0.0303125
+
+learning episode:61
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.573077,pstep:179.546,pscore:246.496,pcomplete:0.906971
+
+learning episode:27
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:156.5,
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ episode:33
+1 2 3 4 5 ng episode:62
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:156.5,mscore:275.5,mcomp:0.861607,mwin:0.8
+
+learning episode:33
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.7565,pscor10 
+off-line training..
+303283
+
+learning episode:63
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.574074,pstep:178.944,pscore:246.681,pcomplete:0.905556
+
+learning episode:28
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 score:-101.881,pcomplete:0.0303855
+
+learning episode:64
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:152.8,mscore:248.6,mcomp:0.8625,mwin:0.6
+
+learning episode:34
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575,pstep:178.807,pscore:247.854,pcomplete:0.907207
+
+learning episode:29
+1 2 3 4 5 6  7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1492,pscore:-101.568,pcomplete:0.0303022
+
+learning episode:66
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.2,mscore:279.8,mcomp:0.904464,mwin:0.6
+
+learning episode:35
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.574074,pstep:178.944,pscore:246.681,pcomplete:0.905556
+
+learning episode:28
+1 2 3 4 5 6 7 8 9 10 pwin:0.582759,pstep:178.831,pscore:249.738,pcomplete:0.909083
+
+learning episode:30
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pscore:-102.17,pcomplete:0.0301972
+
+learning episode:68
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 ouble]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4059,pscore:-101.841,pcomplete:0.0302652
+
+learning episode:69
+1 2 3 4 pwin:0.575,pstep:178.807,pscore:247.854,pcomplete:0.907207
+
+learning episode:29
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:156.1,mscore:240.1,mcomp:0.833929,mwin:0.6
+
+learning episode:36
+1 2 3 4 5 6 7 8 9 ine training..
+
+
+le]    [1x5 double]
+
+pwin:0.586667,pstep:179.17,pscore:251.097,pcomplete:0.911756
+
+learning episode:31
+1 pwin:0,pstep:61.3203,pscore:-101.761,pcomplete:0.0302536
+
+learning episode:70
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:300.1,mcomp:0.941071,mwin:0.8
+
+learning episode:37
+1 2 -line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.590323,pstep:179.161,pscore:252.261,pcommstep:173.1,mscore:300.1,mcomp:0.941071,mwin:0.8
+
+learning episode:37
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+e:37
+1 2 3 4 5 6 
+off-line training..
+ training..
+8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9792,pscore:-102.351,pcomplete:0.0304067
+
+learning episode:73
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0288,pscore:-102.423,pcomplete:0.0303571
+
+learning episode:74
+1 2 3 4 5 6 7 8 pwin:0.590625,pstep:178.737,pscore:252.459,pcomplete:0.913002
+
+learning episode:33
+1 2 3 8 9 10 
+off-line trai10 
+off
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.7176,pscore:-102.134,pcomplete:0.0303089
+
+learning episode:75
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 204.5,mscore:300.5,mcomp:1,mwin:1
+
+learning episode:39
+1 2 3 4 5 omplete:0.0303929
+
+learning episode:76
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.590323,pstep:179.161,pscore:252.261,pcomplete:0.914084
+
+learning episode:32
+1 2 3 4 5 6 7 8 9 10 training..
+
+ans =
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.584848,pstep:177.948,pscore:251.721,pcomplete:0.911174
+
+learning episode:34
+1 2 3 4 5 6 -line training..
+7 8 9 10 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8468,pscore:-102.268,pcomplete:0.0302992
+
+learning episode:78
+1 2 3 4 5 
+test:
+1 2 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:193.5,mscore:301.2,mcomp:0.999107,mwin:0.9
+
+learning episode:40
+1 2 3 4 pwin:0.590625,pstep:178.737,pscore:252.459,pcomplete:0.913002
+
+learning episode:33
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.591176,pstep:177.994,pscore:253.391,pcomplete:0.913445
+
+learning episode:35
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8975,pscore:-102.272,pcomplete:0.0304024
+
+learning episode:80
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:183.6,mscore:322,mcomp:0.992857,mwin:0.8
+
+learning episode:41
+1 2 
+
+learning episode:81
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.7778,pscore:-102.158,pcomplete:0.0303902
+
+learning episode:82
+1 2 3 4 5 6 7 pwin:0.584848,pstep:177.948,pscore:251.721,pcomplete:0.911174
+
+learning episode:34
+1 2 pwin:0.591429,pstep:177.434,pscore:253.46,pcomplete:0.912219
+
+learning episode:36
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8561,pscore:-102.256,pcomplete:0.0303463
+
+learning episode:83
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:182.8,mscore:282,mcomp:0.916964,mwin:0.8
+
+learning episode:42
+1 2 off-line training..
+3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9036,pscore:-102.308,pcomplete:0.0303359
+
+learning episode:85
+1 2 3 4 5 3 4 5 6 7 pwin:0.591176,pstep:177.994,pscore:253.391,pcomplete:0.913445
+
+learning episode:35
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8129,pscore:-102.18,pcomplete:0.0304202
+
+learning episode:86
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9314,pscore:-102.317,pcomplete:0.0303779
+
+learning episode:87
+1 2 3 4 5 6 7 8 9 10 pwin:0.589189,pstep:176.905,pscore:253.614,pcomplete:0.912114
+
+learning episode:38
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.591429,pstep:177.434,pscore:253.46,pcomplete:0.912219
+
+learning episode:36
+1 2 3 4 5 6 10 
+off-line training..
+7 8 9 10 
+off-line training..
+[1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:161.8,mscore:268.7,mcomp:0.866071,mwin:0.7
+
+learning episode:44
+1 2 f-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5697,pscore:-101.844,pcomplete:0.030628
+
+learning episode:90
+1 3 4 4 5 6 7 8 9 10 
+off-line training..
+5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4478,pscore:-101.737,pcomplete:0.0305952
+
+learning episode:91
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,6 7 p:61.3396,pscore:-101.599,pcomplete:0.0306613
+
+learning episode:92
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.589744,pstep:176.413,pscore:253.7,pcomplete:0.911401
+
+learning episode:40
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+e]
+
+pwin:0,pstep:61.4174,pscore:-101.696,pcomplete:0.0306192
+
+learning episode:93
+1 3 4 5 6 7 8 9 10 mstep:192,mscore:303.9,mcomp:0.992857,mwin:0.9
+
+learning episode:45
+1 pwin:0.589189,pstep:176.905,pscore:253.614,pcomplete:0.912114
+
+learning episode:38
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3882,pscore:-101.638,pcomplete:0.0306836
+
+learning episode:94
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1894,pscore:-101.449,pcomplete:0.0306611
+
+learning episode:95
+1 2 3 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.586842,pstep:176.524,pscore:253.4,pcomplete:0.911208
+
+learning episode:39
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0863,pscore:-101.335,pcomplete:0.0306861
+
+learning episode:96
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.597561,pstep:176.222,pscore:255.605,pcomplete:0.911934
+
+learning episode:42
+1 2 3 3 4 5 6 7 8 9 10 mstep:179.7,mscore:279.8,mcomp:0.947321,mwin:0.7
+
+learning episode:47
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.589744,pstep:176.413,pscore:253.7,pcomplete:0.911401
+
+learning episode:40
+1 2 3 4 5 6 ns = 
+
+    [10x5 double]    [1x5 double]
+
+5 pwin:0,pstep:61.0608,pscore:-101.304,pcomplete:0.0306977
+
+learning episode:98
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.602381,pstep:175.862,pscore:255.693,pcomplete:0.911076
+
+learning episode:43
+1 2 3 4 5 6 7 8 pwin:0,pstep:61.1,pscore:-101.333,pcomplete:0.0307125
+
+learning episode:99
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:184.4,mscore:285.2,mcomp:0.950893,mwin:0.8
+
+learning episode:48
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2707,pscore:-101.501,pcomplete:0.0307179
+
+learpwin:0.595,pstep:176.748,pscore:255.123,pcomplete:0.913326
+
+learning episode:41
+1 2 3 4 5 6 7 8 9 10 
+off-line train
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.281,pscore:-101.505,pcomplete:0.0307321
+
+learning episode:101
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:182.9,mscore:309.9,mcomp:0.994643,mwin:0.8
+
+learning episode:49
+1 2 3 4 5 pwin:0,pstep:61.2277,pscore:-101.434,pcomplete:0.0307726
+
+learning episode:102
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:182.9,mscore:309.9,mcomp:0.994643,mwin:0.8
+
+learning episode:49
+1 2 3 4 5 pwin:0.597561,pstep:176.222,pscore:255.605,pcomplete:0.911934
+
+learning episode:42
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0641,pscore:-101.243,pcomplete:0.0308339
+
+learning episode:104
+1 2 3 4 5 6 7 8 9 10 
+off-
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:170.5,mscore:277.6,mcomp:0.90625,mwin:0.7
+
+learning episode:50
+1 2 3 4 5 pwin:0,pstep:60.975,pscore:-101.171,pcomplete:0.030795
+
+learning episode:105
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:170.5,mscore:277.6,mcomp:0.90625,mwin:0.7
+
+learning episode:50
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.586667,pstep:174.231,pscore:254.049,pcomplete:0.906647
+
+learning episode:46
+1 2 3 4 5 6 
+test:
+1 2 p:61.2886,pscore:-101.502,pcomplete:0.0307568
+
+learning episode:106
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:168.9,mscore:300.8,mcomp:0.915179,mwin:0.7
+
+learning episode:51
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:168.9,mscore:300.8,mcomp:0.915179,mwin:0.7
+
+learning episode:51
+1 2 3 4 5 ng
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+aining..
+7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3037,pscore:-101.539,pcomplete:0.0307076
+
+learning episode:108
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+training..
+
+test:
+1 2 3 4 5 6 double]    [1x5 double]
+
+pwin:0,pstep:61.162,pscore:-101.414,pcomplete:0.0306713
+
+learning episode:109
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:187.7,mscore:333.3,mcomp:1,mwin:1
+
+learning episode:52
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1532,pscore:-101.421,pcomplete:0.0306359 10 
+off-line training..
+2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1291,pscore:-101.409,pcomplete:0.0306088
+
+learning episode:111
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:171.3,mscore:270.8,mcomp:0.9375,mwin:0.7
+
+learning episode:53
+1 2 3 4 5 pwin:0,pstep:61.1045,pscore:-101.4,pcomplete:0.0305743
+
+learning episode:112
+1 2 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.586667,pstep:174.231,pscore:254.049,pcomplete:0.906647
+
+learning episode:46
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.58125,pstep:174.467,pscore:254.581,pcomplete:0.909022
+
+learning episode:49
+1 pwin:0,pstep:61.0616,pscore:-101.344,pcomplete:0.0306043
+
+learning episode:113
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1159,pscore:-101.406,pcomplete:0.0305863
+
+learning episode:114
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.582609,pstep:174.237,pscore:254.002,pcomplete:0.907434
+
+learning episode:47
+1 2 3 4 5 pwin:0,pstep:61.1737,pscore:-101.44,pcomplete:0.0306391
+
+learning episode:115
+1 2 3 4 5 6 7 8 pwin:0.585714,pstep:174.635,pscore:255.502,pcomplete:0.910751
+
+learning episode:50
+1 2 3 4 5 6 7 8 9 10 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3096,pscore:-101.563,pcomplete:0.0306677
+
+learning episode:116
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:133.1,mscore:207.3,mcomp:0.775,mwin:0.4
+
+learning episode:55
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:133.1,mscore:207.3,mcomp
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ 6 5 6 pwin:0.582,pstep:174.228,pscore:255.442,pcomplete:0.910143
+
+learning episode:51
+1 2 3 4 5 6 7 8 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.194,pscore:-101.478,pcomplete:0.0306013
+
+learning episode:118
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:161.5,mscore:255.1,mcomp:0.875893,mwin:0.6
+
+learning episode:56
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.580392,pstep:173.841,pscore:255.135,pcomplete:0.908911
+
+learning episode:52
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.58125,pstep:174.467,pscore:254.581,pcomplete:0.909022
+
+learning episode:49
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.405,pscore:-101.64,pcomplete:0.0307098
+
+learning episode:120
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:164.6,mscore:232.9,mcomp:0.885714,mwin:0.5
+
+learning episode:57
+1 2 3 4 5 6 pwin:0.578846,pstep:173.669,pscore:255.002,pcomplete:0.908207
+
+learning episode:53
+1 2 3 4 5 6 7 8 pwin:0.585714,pstep:174.635,pscore:255.502,pcomplete:0.910751
+
+learning episode:50
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4339,pscore:-101.698,pcomplete:0.0306449
+
+learning episode:122
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2,pscore:-101.479,pcomplete:0.0306133
+
+learning episode:123
+1 2 3 4 5 6 7 8 9 10 pwin:0.571698,pstep:173.162,pscore:253.809,pcomplete:0.906048
+
+learning episode:54
+1 2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.582,pstep:174.228,pscore:255.442,pcomplete:0.910143
+
+learning episode:51
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+g..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.572222,pstep:173.091,pscore:254.496,pcomplete:0.9063
+
+learning episode:55
+1 2 3 6 7 8 9 10 
+off-line training..
+4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:172.2,msco
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.580392,pstep:173.841,pscore:255.135,pcomplete:0.908911
+
+learning episode:52
+1 2 3 4 5 6 8 9 10 mstep:172.2,mscore:249.2,mcomp:0.904464,mwin:0.6
+
+learning episode:59
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5444,pscore:-101.811,pcomplete:0.0306406
+
+learning episode:127
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3803,pscore:-101.661,pcomplete:0.0306102
+
+learning episode:128
+1 2 3 4 5 6 10 mstep:158.7,mscore:263.9,mcomp:0.883929,mwin:0.6
+
+learning episode:60
+1 2 3 4 5 6 pwin:0.578846,pstep:173.669,pscore:255.002,pcomplete:0.908207
+
+learning episode:53
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.573214,pstep:172.889,pscore:254.748,pcomplete:0.906362
+
+learning episode:57
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9488,pscore:-102.203,pcomplete:0.0306686
+
+learning episode:130
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0015,pscore:-102.242,pcomplete:0.0307005
+
+learning episode:131
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.6,mscore:276.9,mcomp:0.920536,mwin:0.7
+
+learning episode:61
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+mplete:0.903383
+
+learning episode:58
+1 2 3 4 5 6 7 8 pwin:0,pstep:62.2527,pscore:-102.506,pcomplete:0.0306707
+
+learning episode:132
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [
+test:
+1 2 3 4 5 6 0.572222,pstep:173.091,pscore:254.496,pcomplete:0.9063
+
+learning episode:55
+1 2 3 4 5 6 7 pwin:0,pstep:62.2114,pscore:-102.478,pcomplete:0.0306412
+
+learning episode:133
+1 2 7 8 9 10 mstep:178.4,mscore:283,mcomp:0.934821,mwin:0.8
+
+learning episode:62
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.2594,pscore:-102.539,pcomplete:0.0306122
+
+learning episode:134
+1 2 3 4 5 6 7 8 9 pwin:0.575862,pstep:172.438,pscore:254.3,pcomplete:0.905018
+
+learning episode:59
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.576364,pstep:173.113,pscore:255.238,pcomplete:0.907094
+
+learning episode:56
+1 2 3 4 5 6 7 8 9 10 
+off-line trai6 7 ..
+8 9 10 mstep:178.2,mscore:237.9,mcomp:0.908929,mwin:0.5
+
+learning episode:63
+1 2 3 4 pwin:0,pstep:62.143,pscore:-102.424,pcomplete:0.0306085
+
+learning episode:136
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:178.2,mscore:237.9,mcomp:0.908929,mwin:0.5
+
+learning episode:63pwin:0,pste8 9 10 
+off-line training..
+omplete:0.0306066
+
+learning episode
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+pwin:0.573214,pstep:172.889,pscore:254.748,pcomplete:0.906362
+
+learning episode:57
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:162.4,mscore:240,mcomp:0.864286,mwin:0.4
+
+learning episode:64
+1 2 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.576667,pstep:172.473,pscore:254.613,pcomplete:0.906057
+
+learning episode:61
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:162.4,mscore:240,mcomp:0.864286,mwin:0.4
+
+learning episode:64
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 
+off-line training..
+
+ans = 
+
+    [10x20 doub
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0489,pscore:-102.357,pcomplete:0.0305498
+
+learning episode:140
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.95,pscore:-102.261,pcomplete:0.0305421
+
+learning episode:141
+1 2 3 4 5 6 7 8 9 pwin:0.57377,pstep:172.685,pscore:254.548,pcomplete:0.907377
+
+learning episode:62
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:193.1,mscore:347.9,mcomp:1,mwin:1
+
+learning episode:65
+1 2 3 4 5 6 7 8 9 10 
+off-line training.[1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:0.0305155
+
+learning episode:142
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.575862,pstep:172.438,pscore:254.3,pcomplete:0.905018
+
+learning episode:59
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9408,pscore:-102.223,pcomplete:0.0306087
+
+learning episode:143
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0,pstep:62.0455,pscore:-102.339,pcomplete:0.0305819
+
+learning episode:144
+1 2 3 4 5 6 7 8 9 5 6 7 8 9 10 
+off-line training..
+g..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.2646,pscore:-102.57,pcomplete:0.0305556
+
+learning episode:145
+1 2 3 4 5 6 7 pwin:0.579661,pstep:172.537,pscore:254.886,pcomplete:0.905932
+
+learning episode:60
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+p:0.925,mwin:0.7
+
+learning episode:67
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.2869,pscore:-102.593,pcomplete:0.0305542
+
+learning episode:146
+1 2 3 4 5 3 4 5 6 7 8 9 10 mstep:168.5,mscore:279.6,mcomp:0.925,mwin:0.7
+
+learning episode:67
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.576667,pstep:172.473,pscore:254.613,pcomplete:0.906057
+
+learning episode:61
+1 2 3 4 5 6 7  
+off-line training..
+
+test:
+1 2 3 4 5 6 aining..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0864,pscore:-102.367,pcomplete:0.0306122
+
+learning episodepwin:0.56875,pstep:172.456,pscore:254.369,pcomplete:0.908119
+
+learning episode:65
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+6,mcomp:1,mwin:1
+
+learning episode:68
+1 2 3 de:149
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1067,pscore:-102.41,pcomplete:0.0305609
+
+learning episode:150
+1 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.57377,pstep:172.685,pscore:254.548,pcomplete:0.907377
+
+learning episode:62
+1 2 3 4 5 6 pwin:0.566154,pstep:172.568,pscore:254.46,pcomplete:0.908626
+
+learning episode:66
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1291,pscore:-102.45,pcomplete:0.0305227
+
+learning episode:152
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0382,pscore:-102.343,pcomplete:0.0305569
+
+learning episode:153
+1 2 3 4 5pwin:0.574194,pstep:172.811,pscore:255.056,pcomplete:0.908612
+
+learning episode:63
+1 2 3 4 5 6 7 8 9 10 
+off-3 4 5 6 7 8 9 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9379,pscore:-102.254,pcomplete:0.0305322
+
+learning episode:154
+1 2 3 4 5 7 8 9 10 
+off-line training..
+.
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.565672,pstep:172.513,pscore:254.381,pcomplete:0.908356
+
+learning episode:68
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.573016,pstep:172.721,pscore:255.014,pcomplete:0.908844
+
+learning episode:64
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:170.4,mscore:253.7,mcomp:0.891964,mwin:0.7
+
+learning episode:71
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+in:0,pstep:61.7981,pscore:-102.126,pcomplete:0.0305069
+
+learning episode:156
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.567647,pstep:172.384,pscore:254.387,pcomplete:0.907931
+
+learning episode:69
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.7647,pscore:-102.096,pcomplete:0.0305002
+
+learning episode:157
+1 2 3 4 5 6 7 3 4 5 6 7 8 9 10 mstep:170.3,mscore:257,mcomp:0.876786,mwin:0.7
+
+learning episode:72
+1 2 3 4 5 6 7 pwin:0.56875,pstep:172.456,pscore:254.369,pcomplete:0.908119
+
+learning episode:65
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 mstep:170.3,mscore:257,mcomp:0.876786,mwin:0.7
+
+learning episode:72
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.569565,pstep:172.481,pscore:254.68,pcomplete:0.908553
+
+learning episode:70
+1 2 3 4 5 6 7 8 9 ff-line training..
+
+test:
+1 2 3 4 aining..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.856,pscore:-102.213,pcomplete:0.0lete:0.908626
+
+learning episode:66
+1 2 3 4 5 6 7 8 9 10 
+off-line train7 8 9 10 mstep:159.8,mscore:256.1,mcomp:0.896429,mwin:0.5
+
+learning episode:73
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8981,psc
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+sode:161
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.571429,pstep:172.309,pscore:254.711,pcomplete:0.908099
+
+learning episode:71
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9037,pscore:-102.281,pcomplete:0.030396
+
+learning episode:162
+1 2 3 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.563636,pstep:172.556,pscore:254.598,pcomplete:0.90901
+
+learning episode:67
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9265,pscore:-102.314,pcomplete:0.0303737
+
+learning episode:163
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9883,pscore:-102.386,pcomplete:0.0303517
+
+learning episode:164
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.565672,pstep:172.513,pscore:254.381,pcomplete:0.908356
+
+learning episode:68
+1 2 3 4 5 6 7 8 9 10 
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:172.4,mscore:283.6,mcomp:0.915179,mwin:0.8
+
+learning episode:75
+1 2 3 4 ine training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575,pstep:172.306,pscore:255.672,pcomplete:0.909375
+
+learning episode:73
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:0.0303842
+
+learning episode:166
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.567647,pstep:172.384,pscore:254.387,pcomplete:0.907931
+
+learning episode:69
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9554,pscore:-102.336,pcomplete:0.0303894
+
+learning episode:167
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:190.7,mscore:319.4,mcomp:0.995536,mwin:0.9
+
+learning episode:76
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ine training..
+pwin:0.569565,pstep:172.481,pscore:254.68,pcomplete:0.908553
+
+learning episode:70
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x54 5 6 7 8 9 in:0,pstep:62.1554,pscore:-102.51,pcomplete:0.0304475
+
+learning episode:169
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+10 mstep:178.4,mscore:281,mcomp:0.941071,mwin:0.6
+
+learning episode:77
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+7 8 9 10 mstep:178.4,mscore:281,mcomp:0.941071,mwin:0.6
+
+learning episode:77
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.571622,pstep:172.118,pscore:255.414,pcomplete:0.908542
+
+learning episode:75
+1 2 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9406,pscore:pwin:0.571429,pstep:172.309,pscore:254.711,pcomplete:0.908099
+
+learning episode:71
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9713,pscore:-102.336,pcomplete:0.030425
+
+learning episode:172
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0831,pscore:-102.425,pcomplete:0.0304765
+
+learning episode:173
+1 2 3 4 5 6 pwin:0.573333,pstep:172.135,pscore:255.505,pcomplete:0.90875
+
+learning episode:76
+1 2 3 4 pwin:0.573239,pstep:172.304,pscore:255.238,pcomplete:0.908941
+
+learning episode:72
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+02.32,pcomplete:0.0304552
+
+learning episode:174
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9914,pscore:-102.352,pcomplete:0.0304341
+
+learning episode:175
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+in:0,pstep:61.956,pscore:-102.326,pcomplete:0.0304133
+
+learning episode:176
+1 2 3 4 5 6 pwin:0.573684,pstep:172.243,pscore:255.746,pcomplete:0.909551
+
+learning episode:77
+1 6 7 8 9 10 
+off-line training..
+255.672,pcomplete:0.909375
+
+learning episode:73
+1 2 3 4 5 6 7 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9693,pscore:-102.349,pcomplete:0.0303927
+
+learning episode:177
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:181.7,mscore:295.5,mcomp:0.991071,mwin:0.8
+
+learning episode:80
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.8119,pscore:-102.201,pcomplete:0.0303723
+
+learning episode:178
+1 2 3 4 5 6 7 9 10 mstep:181.7,mscore:295.mstep:181.7,mscore:295.5,mcomp:0.991071,mwin:0.8
+
+learn
+ans = 
+
+    [10x20 doupwin:0.576712,pstep:172.296,pscore:256.141,pcomplete:0.909919
+
+learning episode:74
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.7843,pscore:-102.175,pcomplete:0.0303672
+
+learning episode:179
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:174.6,mscore:313.7,mcomp:0.948214,mwin:0.9
+
+learning episode:81
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.574359,pstep:172.153,pscore:256.217,pcomplete:0.909936
+
+learning episode:79
+1 2 3 4 7 8 9 10 mstep:174.6,mscore:313.7,mcomp:0.948214,mwin:0.9
+
+learning episode:81
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:0.0303274
+
+learning episode:181
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.571622,pstep:172.118,pscore:255.414,pcomplete:0.908542
+
+learning episode:75
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575949,pstep:172.073,pscore:256.313,pcomplete:0.909765
+
+learning episode:80
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 ng..
+8 9 10 mstep:182.5,mscor
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.6962,pscore:-102.123,pcomplete:0.0302885
+
+learning episode:183
+1 2 3 4 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5962,pscore:-101.998,pcomplete:0.0303425
+
+learning episode:184
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.573333,pstep:172.135,pscore:255.505,pcopwin:0,pstep:61.4848,pscore:-101.893,pcomplete:0.030328
+
+learning episode:185
+1 2 3 4 pwin:0.57375,pstep:171.891,pscore:255.875,pcomplete:0.908817
+
+learning episode:81
+1 2 3 4 5 6 7 8 9 10 3 4 5 6 7 8 9 10 mstep:182.3,mscore:330.8,mcomp:0.96875,mwin:0.9
+
+learning episode:83
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4378,pscore:-101.849,pcomplete:0.0303234
+
+learning episode:186
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3559,pscore:-101.775,pcomplete:0.0303043
+
+learning episode:187
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3278,pscore:-101.713,pcomplete:0.030381
+
+learning episode:188
+1 2 3 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.57561,pstep:171.794,pscore:256.23,pcomplete:0.908547
+
+learning episode:83
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.291,pscore:-101.672,pcomplete:0.0303904
+
+learning episode:189
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575325,pstep:172.342,pscore:256.252,pcomplete:0.91039
+
+learning episode:78
+1 2 7 8 9 10 mstep:182.4,mscore:306.2,mcomp:0.96875,mwin:0.8
+
+learning episode:85
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.577108,pstep:171.842,pscore:256.395,pcomplete:0.908724
+
+learning episode:84
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:190.6,mscore:302.1,mcomp:0.999107,mwin:0.9
+
+learning episode:86
+1 2 3 4 5 6 7 8 9  59,pstep:172.153,pscore:256.217,pcomplete:0.909936
+
+learning episode:79
+1 2 3 4 5 6  10 
+off-line training..
+7 8 9 10 
+off-line train6 7 8 9 10 mstep:190.6,mscore:302.1,mcomp:0.999107,mwin:0.9
+
+learning episode:86
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3599,pscore:-101.747,pcomplete:0.0303757
+
+learning episode:193
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.458,pscore:-101.831,pcomplete:0.030408
+
+learning episode:194
+1 2 3 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575949,pstep:172.073,pscore:256.313,pcomplete:0.909765
+
+learning episode:80
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5041,pscore:-101.884,pcomplete:0.030394
+
+learning episode:195
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:148.mstep:148.4,mscore:275.8,mcomp:0.857143,mwin:0.6
+
+learning episode:87
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4364,pscore:-101.822,pcomplete:0.03038
+
+learning episode:196
+1 2 3 
+off-line training..
+ouble]    [1x20 double]
+
+10 
+off-line training..
+.
+pwin:0.574118,pstep:171.654,pscore:256.115,pcomplete:0.908183
+
+learning episode:86
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.57375,pstep:171.891,pscore:255.875,pcomplete:0.908817
+
+learning episode:81
+1 2 3 4 5 6 7 8 9 f-line training..
+7 8 9 10 mstep:192.1,mscore:316.7,mcomp:0.994643,mwin:0.8
+
+learning episode:88
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 1
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:0.8
+
+learning episode:88
+1 2 3 -line training..
+4 5 pwin:0.574419,pstep:171.736,pscore:256.476,pcomplete:0.908742
+
+learning episode:8
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3364,pscore:-101.734,pcomplete:0.0303526
+
+learning episode:199
+1 2 3 4 5 pwin:0.575309,pstep:171.957,pscore:256.233,pcomplete:0.909127
+
+learning episode:82
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2638,pscore:-101.66,pcomplete:0.0303571
+
+learning episode:200
+1 2 3 4 5 6 7 8 7 8 9 10 mstep:178.3,mscore:294.5,mcomp:0.953571,mwin:0.8
+
+learning episode:89
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.572414,pstep:171.378,pscore:255.76,pcomplete:0.906845
+
+learning episode:88
+1 2 3 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.57561,pstep:171.794,pscore:256.23,pcomplete:0.908547
+
+lear
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3159,pscore:-101.706,pcomplete:0.0303705
+
+learning episode:202
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2421,pscore:-101.624,pcomplete:0.0303881
+
+learning episode:203
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.571591,pstep:171.406,pscore:255.668,pcomplete:0.907021
+
+learning episode:89
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:168.1,mscore:272,mcomp:0.898214,mwin:0.7
+
+learning episode:90
+1 2 3 4 5 5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.577108,pstep:171.842,pscore:256.395,pcomplete:0.908724
+
+learning episode:84
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1809,pscore:-101.575,pcomplete:0.0303615
+
+learning episode:205
+1 2 3 4 5 6 7 8 9 10 5 6 7 8 9 10 mstep:187.4,mscore:326.1,mcomp:0.986607,mwin:0.9
+
+learning episode:91
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.570787,pstep:171.247,pscore:255.84,pcomplete:0.907002
+
+learning episode:90
+1 2 3 4 5  9 10 
+off-line training..
+3 4 5 mstep:187.4,mscore:326.1,mcomp:0.986607,mwin:0.9
+
+learning episode:91
+1 2 3 4 5 pwin:0,pstep:61.1752,pscore:-101.585,pcomplete:0.0303268
+
+learning episode:207
+1 2 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575,pstep:171.763,pscore:256.381,pcomplete:0.908588
+
+learning episode:85
+1 2 3 4 5 6 7 8 9 10 mstep:195.2,mscore:301.1,mcomp:0.998214,mwin:0.9
+
+learning episode:92
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:3 4 5 6 7 re:301.1,mcomp:0.998214,mwin:0.9
+
+learning episode:92
+1 2 learning episode:208
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 
+off-line training..
+0.998214,mwin:0.9
+
+learning episode:92
+1 2 3 4 pwin:0,pstep:61.0567,pscore:-101.482,pcomplete:0.0302928
+
+learning episode:209
+1 2 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.574118,pstep:171.654,pscore:256.115,pcomplete:0.908183
+
+learning episode:86
+1 2 3 4 5 6 pwin:0,pstep:61.0646,pscore:-101.491,pcomplete:0.0302888
+
+learning episode:210
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:183.6,mscore:301.6,mcomp:0.986607,mwin:0.8
+
+learning episode:93
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0395,pscore:-101.474,pcomplete:0.0302721
+
+learning episode:211
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:183.6,mscore:301.6,mcomp:0.986607,mwin:0.8
+
+learning episode:93
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0393,pscore:-101.479,pcomplete:0.0302598
+
+learning episode:212
+1 2 3 4 5 8 9 10 
+off-line training..
+g..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.572826,pstep:171.171,pscore:256.509,pcomplete:0.907269
+
+learning episode:93
+1 2 3 pwin:0,pstep:60.9594,pscore:-101.407,pcomplete:0.0302434
+
+learning episode:213
+1 2 3 7 8 9 10 
+off-line training..
+8 9 10
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:138,mscore:193.7,mcomp:0.755357,mwin:0.3
+
+learning episode:94
+1 2 3 4 5 78,pscore:255.76,pcomplete:0.906845
+
+learning episode:88
+1 2 lete:0.0302272
+
+learning episode:214
+1 3 4 5 6 7 8 9 10 
+off-line training..
+ning..
+ning..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575269,pstep:171.269,pscore:256.891,pcomplete:0.907911
+
+learning episode:94
+1 2 3 4 5 6 7 8 9 10 7 8 9 10 mstep:166.8,mscore:261.8,mcomp:0.907143,mwin:0.6
+
+learning episode:95
+pwin:0.571591,pstep:171.406,pscore:255.668,pcomplete:0.907021
+
+learning episode:89
+1 2 3 4 5 6 pwin:0,pstep:60.8656,pscore:-101.312,pcomplete:0.0302409
+
+learning episode:216
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8986,pscore:-101.347,pcomplete:0.0302373
+
+learning episode:217
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.9207,pscore:-101.376,pcomplete:0.0302214
+
+learning episode:218
+1 2 3 4 5 6 7 8 9 10 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.570787,pstep:171.247,pscore:255.84,pcomplete
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.576842,pstep:171.331,pscore:257.482,pcomplete:0.908788
+
+learning episode:96
+1 
+off-line training..
+e training..
+7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+7 8 9 10 mstep:180.8,mscore:310.5,mcomp:0.966071,mwin:0.9
+
+learning episode:97
+1 2 3 4 5 6 7 8 9  2 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8691,pscore:-101.329,pcomplete:0.030211
+
+learning episode:221
+1 2 3 4 9 10 mst
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+learning episode:97
+1 2 3 4 8 9 10 
+off-line traipwin:0.
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+:0.907252
+
+learning episode:91
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0,pstep:60.8814,pscore:-101.348,pcomplete:0.0301955
+
+learning episode:222
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:178.9,mscore:307.5,mcomp:0.980357,mwin:0.8
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.573626,pstep:171.229,pscore:256.457,pcomplete:0.907408
+
+learning epipwin:0.573196,pstep:170.715,pscore:256.586,pcomplete:0.905919
+
+learning episode:98
+1 2 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+mstep:178.9,mscore:307.5,mcomp:0.980357,mwin:0.8
+
+learning episode:98
+1 2 3 4 5 6 7 8 9 6 7 8 9 10 
+off-line training..
+10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8125,pscore:-101.286,pcomplete:0.0301818
+
+learning episode:225
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7569,pscore:-101.219,pcomplete:0.0302063
+
+learning episode:226
+1 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.572826,pstep:171.171,pscore:256.509,pcomplete:0.907269
+
+learning episode:93
+1 2 3 4 5 6 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 1,pscore:-101.345,pcomplete:0.0301912
+
+learning episode:227
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:165.7,mscore:237.5,mcomp:0.869643,mwin:0.6
+
+learning episode:100
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.576768,pstep:170.906,pscore:257.36,pcomplete:0.906981
+
+learning episode:100
+1 2 3 4 7 8 9 10 mstep:165.7,mscore:237.5,mcomp:0.869643,mwin:0.6
+
+learning episode:100
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0.575269,pstep:171.269,pscore:256.891,pcomplete:0.907911
+
+learning episode:94
+1 2 3 4 5 6 7 8 9 10 mstep:178.4,mscore:309.1,mcomp:0.964286,mwin:0.9
+
+learning episode:101
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8563,pscore:-101.29,pcomplete:0.0302714
+
+learning episode:230
+1 2 3 4 5 6 7 8 9 10 
+off-line tr3 4 5 6  2 3 4 5 6 7 8 9 10 mstep:178.4,mscore:309.1,mcomp:0.964286,mwin:0.9
+
+learning epis
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8135,pscore:-101.253,pcomplete:0.0302562
+
+learning episode:231
+1 2 3 4 5 6 7 8 9 
+off-line training..
+..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.57766,pstep:171.387,pscore:257.316,pcomplete:0.908843
+
+learning episode:95
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:314.7,mcomp:0.964286,mwin:0.9
+
+learning episode:102
+1 2 f-line training..
+3 4 5 pwin:0.578218,pstep:170.97,pscore:257.61,pcomplete:0.907585
+
+learning episode:102
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7353,pscore:-101.185,pcomplete:0.030234
+
+learning episode:233
+1 
+ans = 
+
+    [10x20 d5 6 7 8 9 10 mstep:174.8,mpwin:0.576842,pstep:171.331,pscore:257.482,pcomplete:0.908788
+
+learning episode:96
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]  
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.579412,pstep:171.152,pscore:258.11,pcomplete:0.908333
+
+learning episode:103
+1 2 g..
+3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.576042,pstep:171.189,pscore:257.123,pcomplete:0.907933
+
+learning episode:97
+1 2 3 4 5 pwin:0,pstep:60.6932,pscore:-101.141,pcomplete:0.0302389
+
+learning episode:235
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.6553,pscore:-101.101,pcomplete:0.0302432
+
+learning episode:236
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575728,pstep:170.897,pscore:257.601,pcomplete:0.90749
+
+learning episode:104
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ore:305.6,mcomp:0.972321
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7532,pscore:-101.155,pcomplete:0.0303421
+
+learning episode:238
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:164.8,mscore:267.1,mcomp:0.907143,mwin:0.7
+
+learning episode:105
+1 2 f-line training..
+3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575,pstep:170.654,pscore:257.319,pcomplete:0.906568
+
+learning episode:105
+1 2 3 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.57551,pstep:170.832,pscore:256.934,pcomplete:0.906405
+
+learning episode:99
+1 2 3 4 5 6 7 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.9417,pscore:-101.362,pcomplete:0.0303013
+
+learning episode:241
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 10 mstep:153,mscore:222.1,mcomp:0.8375,mwin:0.5
+
+learning episode:106
+1 2 3 4 5 6 pwin:0,pstep:60.9249,pscore:-101.348,pcomplete:0.0302942
+
+learning episode:242
+1 2 3 4 5 pwin:0.574286,pstep:170.663,pscore:257.23,pcomplete:0.906505
+
+learning episode:106
+1 2 3 4 5 6 7 8 9 10 1 2 3 [10x5 double]    [1x5 double]
+
+4 pwin:0.576768,pstep:170.906,pscore:257.36,pcomplete:0.906981
+
+learning episode:100
+1 2 3 4 5 6 7 8 9 10 
+off-line trai
+off-line training..
+ng..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.9539,pscore:-101.39,pcomplete:0.0302653
+
+learning
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.578,pstep:170.935,pscore:257.289,pcomplete:0.907018
+
+learning episode:101
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8566,pscore:-101.278,pcomplete:0.0302986
+
+learning episode:245
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8739,pscore:-101.302,pcomplete:0.0302843
+
+learning episode:246
+1 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+mplete:0.905783
+
+learning episode:108
+1 2 3 4 5 6 7 8 9 arning episode:247
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 e training..
+pwin:0.578218,pstep:170.97,pscore:257.61,pcomplete:0.907585
+
+learning episode:102
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7858,pscore:-101.209,pcomplete:0.0302957
+
+learning episode:248
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.827,pscore:-101.256,pcomplete:0.0302815
+
+learning episode:249
+1 2 3 
+test:.575,pstep:170.446,pscore:257.688,pcomplete:0.906118
+
+learning episode:109
+1 2 3 4 5 6 7 8 9 10 
+off-l
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8373,pscore:-101.265,pcomplet7 8 9 10 mstep:197,mscore:302.5,mcomp:0.996429,mwin:0.9
+
+learning episode:109
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8336,pscore:-101.258,pcomplete:0.0302929
+
+learning episode:251
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575229,pstep:170.414,pscore:257.934,pcomplete:0.906103
+
+learning episode:110
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8315,pscore:-101.259,pcomplete:0.030286
+
+learning episode:252
+1 2 3 4 5 6 7 8 9 4 5 6 7 8 9 10 
+off-line7 8 9 10 mst
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8687,pscore:-101.277,pcomplete:0.0303288
+
+learning episode:253
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575455,pstep:170.39,pscore:257.895,pcomplete:0.906169
+
+learning episode:111
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+tep:177.1,mscore:279.4,mcomp:0.975,mwin:0.7
+
+learning episode:111
+1 0 
+off-line training..
+2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.8913,pscore:-101.312,pcomplete:0.0303009
+
+learning episode:255
+1 2 3 4 5 7 8 8 9 10 
+off-line training..
+9 10 mstep:177.1,mscore:279.4,mcomp:0.975,mwin:0.7
+
+learning episode:111
+1 2 3 4 5 6 pwin:0.575,pstep:170.654,pscore:257.319,pcomplete:0.906568
+
+learning episode:105
+1 2 3 4 5 6 7 pwin:0.577477,pstep:170.652,pscore:258.206,pcomplete:0.90699
+
+learning episode:112
+1 2 3 4 5 6 7 8 9 2 f-line training..
+3 4 off-line training..
+5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.991,pscore:-101.419,pcomplete:0.0302839
+
+learning episode:257
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+0.884821,mwin:0.7
+
+learning episode:112
+1 2 3 4 5 pwin:0,pstep:61.0128,pscore:-101.441,pcomplete:0.0302842
+
+learning episode:258
+1 2 pwin:0.574286,pstep:170.663,pscore:257.23,pcomplete:0.906505
+
+learning episode:106
+1 2 3 4 5 6 pwin:0.578571,pstep:170.699,pscore:258.353,pcomplete:0.907071
+
+learning episode:113
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.9833,pscore:-101.417,pcomplete:0.0302706
+
+learning episode:259
+1 2 3 4 5 10 mstep:173.6,mscore:251.8,mcomp:0.9,mwin:0.6
+
+learning episode:113
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:173.6,mscore:251.8,mcomp:0.9,mwin:0.6
+
+learning episode:113
+1 2 3 
+
+learning episode:260
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:173.6,mscore:251.8,mcomp:0.9,mwin:0.6
+
+learning episode:113
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.573585,pstep:170.417,pscore:257.302,pcomplete:0.905888
+
+learning episode:107
+1 2 3 4 5 6 7 8 9 line training..
+pwin:0.578761,pstep:170.673,pscore:258.098,pcomplete:0.906653
+
+learning episode:114
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.9529,pscore:-101.371,pcomplete:0.0303058
+
+learning episode:262
+1 2 3 4 5 6 7 8 9 10 
+o
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:165.3,mscore:268.9,mcomp:0.883929,mwin:0.6
+
+learning episode:114
+1 2 3 4 5 7 8 9 10 mstep:165.3,mscore:268.9,mcomp:0.883929,mwin:0.6
+
+learning episodepwin:0.573832,pstep:170.376,pscore:257.351,pcomplete:0.905783
+
+learning episode:108
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.579825,pstep:170.753,pscore:258.09,pcomplete:0.906908
+
+learning episode:115
+1 2 3 4 5 6 7 10 
+off-line training..
+7 8 9 10 mstep:163.1,mscore:242,mcomp:0.88125,mwin:0.5
+
+learning episode:115
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7811,pscore:-101.205,pcomplete:0.0302929
+
+learning episode:265
+1 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:163.1,mscore:242,mcomp:0.88125,mwin:0.5
+
+learning episode:115
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7955,pscore:-101.214,pcomplete:0.0303066
+
+learning episode:266
+1 2 3 4 5 6 7 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.58,pstep:170.671,pscore:257.867,pcomplete:0.906351
+
+learning episode:116
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep5 double]
+
+pwin:0,pstep:60.8835,pscore:-101.297,pcomplete:0.0303169
+
+learning episode:267
+1 2 3 4 5 
+test:
+1 2 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:177.4,mscore:272.4,mcomp:0.947321,mwin:0.6
+
+learning episode:116
+1 2 3 4 5 pwin:0.575229,pstep:170.414,pscore:257.934,pcomplete:0.906103
+
+learning episode:110
+1 2 3 4 5 6 7 8 9 pwin:0.581897,pstep:170.662,pscore:258.165,pcomplete:0.906342
+
+learning episode:117
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:174.6,mscore:289.8,mcomp:0.925893,mwin:0.8
+
+learning episode:117
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.575455,pstep:170.
+test:
+1 2 57.895,pcomplete:0.906169
+
+learning episode:111
+1 2 3 4 e:117
+1 2 line training..
+3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.097,pscore:-101.503,pcomplete:0.030334
+
+learning episode:271
+1 2 3 4 5 pwin:0.582906,pstep:170.697,pscore:258.377,pcomplete:0.906571
+
+learning episode:118
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0417,pscore:-101.454,pcomplete:0.0303209
+
+learning episode:272
+1 2 3 4 5 4 5 6 7 8 9 10 mstep:176.8,mscore:326.3,mcomp:0.95,mwin:0.9
+
+learning episode:118
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ng episode:118
+1 2 
+
+learning episode:273
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 est:
+1 2   [10x20 double]    [1x20 double]
+
+4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.9934,pscore:-101.373,pcomplete:0.0303931
+
+learning episode:274
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:170.4,mscore:257.1,mcomp:0.900893,mwin:0.5
+
+learning episode:119
+1 2 3 4 5 6 7 8 de:275
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 1
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0713,pscore:-101.458,pcomplete:0.0303766
+
+learning episode:276
+1 3 4 5 6 7 8 9 10 mstep:170.4,mscore:257.1,mcomp:0.900893,mwin:0.5
+
+learning episode:119
+1 2 3 4 5 pwin:0.584874,pstep:170.608,pscore:258.671,pcomplete:0.906333
+
+learning episode:120
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0449,pscore:-101.438,pcomplete:0.0303636
+
+learning episode:277
+1 2 3 4 5 6 7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:170.9,mscore:284,mcomp:0.917857,mwin:0.7
+
+learning episode:120
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+20 double]
+
+ 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0392,pscore:-101.444,pcomplete:0.0303379
+
+learning episode:279
+18 9 10 mstep:170.9,mscore:284,mcomp:0.917857,mwin:0.7
+
+learning episode:120
+1 2 3 4 5 6 pwin:0.578761,pstep:170.673,pscore:258.098,pcomplete:0.906653
+
+learning episode:114
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+,mwin:0.6
+
+learning episode:121
+1 2 3 ine training..
+pwin:0.589256,pstep:170.743,pscore:259.281,pcomplete:0.906582
+
+learning episode:122
+1 2 3 4 5 6 7 8 8 9 10 mstep:142.4,mscore:229.2,mcomp:0.800893,mwin:0.6
+
+learning episode:121
+1 2 3 4 5 6 8 9 10 mstep:142.4,mscore:229.2,mcomp:0.800893,mwin:0.6
+
+learning episode:121
+1 2 3 4 5 6 pwin:0.579825,pstep:170.753,pscore:258.09,pcomplete:0.906908
+
+learning episode:115
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+8 9 10 mstep:164.2,mscore:263.1,mcomp:0.882143,mwin:0.7
+
+learning episode:122
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.590164,pstep:170.712,pscore:259.447,pcomplete:0.90666
+
+learning episode:123
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2433,pscore:-101.638,pcomplete:0.0303603
+
+learning episode:283
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2201,pscore:-101.612,pcomplete:0.0303635
+
+learning episode:284
+1 2 3 4 5 6 7 8 9 10 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:179.1,mscore:316,mcomp:0.964286,mwin:0.9
+
+learning episode:123
+1 2 3 4 pwin:0,pstep:61.1722,pscore:-101.569,pcomplete:0.0303509
+
+learning episode:285
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 
+1 2 3 4 5 6 7 8 9 10   [1x5 double]
+
+pwin:0,pstep:61.0933,pscore:-101.481,pcomplete:0.0303728
+
+learning episode:286
+1 2 3 4 5 6 mstep:179.1,mscore:316,mcomp:0.964286,mwin:0.9
+
+learning episode:123
+1 2 3 4 pwin:0.581897,pstep:170.662,pscore:258.165,pcomplete:0.906342
+
+learning episode:117
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [17 8 9 10 mstep:186.9,mscore:300.4,mcomp:0.983929,mwin:0.9
+
+learning episode:124
+1 ode:287
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+3 4 5 6 7 8 9 10 mstep:1
+test:
+1 2 3 4 5 6  double]    [1x20 double]
+
+rning episode:124
+1 2 3 4  10 
+off-line training..
+5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ete:0.905861
+
+learning episode:125
+1 2 3 4 5 6 7 = 
+
+    [10x5 double]    [1x5 double]
+
+8 9 10 
+off-line training..
+7,pscore:258.377,pcomplete:0.906571
+
+learning episode:118
+1 2 3 4 5 6  10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:189,mscore:322,mcomp:1,mwin:1
+
+learning episode:125
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:189,mscore:322,mcomp:1,mwin:1
+
+learning episode:125
+1 2  7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:189,mscore:322,mcopwin:0,pstep:61.1786,pscore:-101.543,pcomplete:0.0304218
+
+learning episode:291
+1 2 pwin:0.5928,pstep:170.632,pscore:259.538,pcomplete:0.906179
+
+learning episode:126
+1 2 3 4 5 6 7 8 9 10 
+off-line trainin
+test:
+1 2 3 4 5 6 7 8 ..
+9 10 mstep:189.8,mscore:335.2,mcomp:1,mwin:1
+
+learning episode:126
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+g episode:292
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+6 7 8 9 10 mstep:189.8,mscore:335.2,mcomp:1,mwin:1
+
+learning episode:126
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]8 9 10 mstep:189.8,mscore:335.2,mcomp:1,mwin:1
+
+learning episode:126
+1 2 3 4 5 6 7 27
+1 2 3 4 5 6 7 off-line training..
+8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.084,pscore:-101.465,pcomplete:0.0303846
+
+learning episode:294
+1 7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:173,mscore:285.1,mcomp:0.938393,mwin:0.7
+
+learning episode:127
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1031,pscore:-101.489,pcomplete:0.0303723
+
+learning episode:295
+1 2 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.595276,pstep:170.617,pscore:259.835,pcomplete:0.906384
+
+learning episode:128
+1 2 3 pwin:0.5875,pstep:170.688,pscore:259.116,pcomplete:0.906682
+
+learning episode:121
+1 2 3 4 5 6 7 8 9 10 
+off-line train
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0854,pscore:-101.477,pcomplete:0.0303602
+
+learning episode:296
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0929,pscore:-101.49,pcomplete:0.0303481
+
+learning episode:297
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.589256,pstep:170.743,pscore:259.281,pcomplete:0.906582
+
+pwin:0.594531,pstep:170.47,pscore:259.787,pcomplete:0.905978
+
+learning episode:129
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+2 3 4 5 6 7 8 9 10 
+off-line training..
+6 7 8 9 e training..
+10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:192,mscore:339,mcomp:1,mwin:1
+
+learning episode:129
+1 2 3 4 5 6 7 8 9 arning episode:299
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.595349,pstep:170.45,pscore:259.874,pcomplete:0.905828
+
+learning episode:130
+1 2 3 4 5 6 7 8 9 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.590164,pstep:170.712,pscore:259.447,pcomplete:0.90666
+
+learning episode:123
+1 2 3 4 10 
+off-line training..
+5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1107,pscore:-101.468,pcomplete:0.0304375
+
+learning episode:301
+1 3 4 5 6 7 8 9 10 mstep:157,mscore:246.8,mcomp:0.842857,mwin:0.6
+
+learning episode:130
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0,pstep:61.1365,pscore:-101.49,pcomplete:0.0304461
+
+learning episode:302
+1 2 10 mstep:157,mscore:246.8,mcomp:0.842857,mwin:0.6
+
+learning episode:130
+1 2 3 4 5 6 7 8 9 10 mstep:157,mscore:246.8,mcomp:0.842857,mwin:0.6
+
+learning episode:130
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+in:0,pstep:61.1497,pscore:-101.474,pcomplete:0.0305109
+
+learning episode:303
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:176.6,mscore:281.6,mcomp:0.965179,mwin:0.6
+
+learning episode:131
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.596947,pstep:170.233,pscore:259.828,pcomplete:0.904907
+
+learning episode:132
+1 7 8 9 10 mstep:176.6,mscore:281.6,mcomp:0.965179,mwin:0.6
+
+learning episode:131
+1 2 3 4 pwin:0,pstep:61.0852,pscore:-101.414,pcomplete:0.0305011
+
+learning episode:305
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:159.7,mscore:258.9,mcomp:0.86875,mwin:0.6
+
+learning episode:132
+1 2 3 4 5 6 7 8 9 pisode:125
+1 2 3 4 5 6  10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:159.7,mscore:258.9,mcomp:0.86875,mwin:0.6
+
+learning episode:132
+1 2 3 4 5 pwin:0.597727,pstep:170.227,pscore:259.898,pcomplete:0.904823
+
+learning episode:133
+1 2 3 4 5 6 7 8 9 10 
+off-line trainin8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:188.2,mscore:290.2,mcomp:0.975,mwin:0.8
+
+learning episode:133
+1 2 3 4 5 6 7 8 pisode:308
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.5928,pstep:170.632,pscore:259.538,pcomplete:0.906179
+
+learning episode:126
+1 2 3 4 5 pwin:0.599248,pstep:170.287,pscore:260.095,pcomplete:0.905115
+
+learning episode:134
+1 2 3 3 4 5 6 7 8 9 10 mstep:188.2,mscore:290.2,mcomp:0.975,mwin:0.8
+
+learning episode:133
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0424,pscore:-101.387,pcomplete:0.0304669
+
+learning episode:310
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:166.
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+ng episode:134
+1 2 3 4 5 pwin:0.600746,pstep:170.333,pscore:260.346,pcomplete:0.905497
+
+learning episode:135
+1 2 3 4 5 pwin:0,pstep:61.0523,pscore:-101.395,pcomplete:0.0304695
+
+learning episode:311
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0463,pscore:-101.391,pcomplete:0.0304662
+
+learning episode:312
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.033,pscore:-101.374,pcomplete:0.0304745
+
+learning episode:313
+1 2 3 4 5 6 7 8 9 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.595276,pstep:170.617,pscore:259.835,pcomplete:0.906384
+
+learning episode:128
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0265,pscore:-101.369,pcomplete:0.0304712
+
+learning episode:314
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0166,pscore:-101.362,pcomplete:0.0304652
+
+learning episode:315
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:158.5,mscore:258.5,mcomp:0.857143,mwin:0.6
+
+learning episode:136
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.594531,pstep:170.47,pscore:259.787,pcomplete:0.905978
+
+learning episode:129
+1 2 3 4 5 6 7 8 9 3 4 5 6 7 8 9 10 mstep:158.5,mscore:258.5,mcomp:0.857143,mwin:0.6
+
+learning episode:136
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.60292,pstep:170.347,pscore:260.281,pcomplete:0.905259
+
+learning episode:138
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+130
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 ning..
+2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:185.7,mscore:310.2,mcomp:0.988393,mwin:0.9
+
+learning episode:137
+1 2 3 4 7 8 9 10 mstep:185.7,mscore:310.2,mcomp:0.988393,mwin:0.9
+
+learning episode:137
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.603623,pstep:170.414,pscore:260.444,pcomplete:0.905538
+
+learning episode:139
+1 2 3pwin:0.595385,pstep:170.178,pscore:259.635,pcomplete:0.904574
+
+learning episode:131
+1 2 3 4 5 3 4 5 6 7 8 9 10 mstep:160.6,mscore:261.5,mcomp:0.875,mwin:0.7
+
+learning episode:138
+1 2 3 4 5 6 7 8 9 10 mstep:160.6,mscore:261.5,mcomp:0.875,mwin:0.7
+
+learning episode:138
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.605755,pstep:170.437,pscore:260.712,pcomplete:0.905633
+
+learning episode:140
+1 
+test:
+196947,pstep:170.233,psco
+off-line training..
+0.904907
+
+learning episode:132
+1 2 3 4 pwin:0,pstep:61.2671,pscore:-101.599,pcomplete:0.0304902
+
+learning episode:323
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:180.9,mscore:303.4,mcomp:0.952679,mwin:0.9
+
+learning episode:139
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.296,pscore:-101.633,pcomplete:0.0304788
+
+learning episode:324
+1 2 
+test:
+1 2 3 4 5 6 ff-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+36,mwin:0.8
+
+learning episode:140
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.237,pscore:-101.579,pcomplete:0.0304674
+
+learning episode:325
+1 2 3 4 5 6
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.597727,pstep:170.227,pscore:259.898,pcomplete:0.904823
+
+learning episode:133
+1 2 3 4 5 6 7 mstep:176.1,mscore:298.7,mcomp:0.945536,mwin:0.8
+
+learning episode:140
+1 2 3 4 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0,pstep:61.169,pscore:-101.521,pcomplete:0.0304448
+
+learning episode:327
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.108,pscore:-101.464,pcomplete:0.0304363
+
+learning episode:328
+1 2 3 4 5 6 7 8 9 10 pwin:0.599248,pstep:17 8 9 10 mstep:188.9,mscore:282.7,mcomp:0.974107,mwin:0.8
+
+learning episode:141
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.118,pscore:-101.472,pcomplete:0.0304388
+
+learning episode:329
+1 2 3 4 5 6 7 8 5 pwin:0.606338,pstep:170.227,pscore:260.367,pcomplete:0.90442
+
+learning episode:143
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1729,pscore:-101.523,pcomplete:0.030444
+
+learning episode:330
+1 2 3 4 5 6 7 8 9 10 pwin:0.600746,pstep:170.333,pscore:260.346,pcomplete:0.905497
+
+learning episode:135
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    6 7 8 9 10 mstep:156,mscore:232.4,mcomp:0.833929,mwin:0.4
+
+learning episode:142
+1 2 3 e:331
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:156,mscore:232.4,mcomp:0.833929,mwin:0.4
+
+learning episode:142
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ete:0.0304623
+
+learning episode:332
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.602222,pstep:170.347,pscore:260.296,pcomplete:0.905304
+
+learning episode:136
+1 2 3 4 5 6 pwin:0,pstep:61.141,pscore:-101.488,pcomplete:0.0304513
+
+learning episode:333
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1225,pscore:-101.474,pcomplete:0.0304403
+
+learning episode:334
+1 2 3 4 5 6 7 8 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+pwin:0.607639,pstep:170.152,pscore:260.446,pcomplete:0.903906
+
+learning episode:145
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:pwin:0.602941,pstep:170.426,pscore:260.407,pcomplete:0.905613
+
+learning episode:137
+1 2 3 9 10 
+off-line training..
+4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:159.7,mscore:266.5,mcomp:0.899107,mwin:0.6
+
+learning episode:144
+1 2 3 4 5 6 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+:0.0304611
+
+learning episode:336
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0.606897,pstep:170.116,pscore:260.389,pcomplete:0.903781
+
+learning episode:146
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0277,pscore:-101.375,pcomplete:0.0304501
+
+learning episode:337
+1 2 3 4 5 6 7 8 9 9 10 mstep:159.7,mscore:266.5,mcomp:0.899107,mwin:0.6
+
+learning episode:144
+1 2 3 4 5 
+ans = 
+
+    [10x20 double]    [1x20 double]
+
+in:0,pstep:60.9997,pscore:-101.339,pcomplete:0.0304684
+
+learning episode:338
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 8 9 10 mstep:181.8,mscore:290,mcomp:0.976786,mwin:0.6
+
+learning episode:145
+1 2 3 4  pwin:0.607534,pstep:170.245,pscore:260.671,pcopwin:0,pstep:60.9988,pscore:-101.341,pcomplete:0.0304628
+
+learning episode:339
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:181.8,mscore:290,mcomp:0.976786,mwin:0.6
+
+learning episode:145
+1 2 3 4 5 6 7 8 core:-101.357,pcomplete:0.0304599
+
+learning episode:340
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 
+off-line training..
+
+ans = 
+
+    [10x20 ouble]    [1x5 double]
+
+pwin:0,pstep:60.9882,pscore:-101.328,pcomplete:0.0304674
+
+learning episode:341
+1 pwin:0.607483,pstep:170.286,pscore:260.593,pcomplete:0.904458
+
+learning episode:148
+1 7 8 9 10 mstep:188.7,mscore:291.4,mcomp:0.992857,mwin:0.7
+
+learning episode:146
+1 2 3 4 5 4 5 6 7 9 10 
+off-line training..
+g..
+.
+[1x5 double]
+
+pwin:0,pstep:60.9718,pscore:-101.317,pcomplete:0.0304566
+
+learning episode:342
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+learning episode:1
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+             
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or 3 4 5 6 7 8 9 10 
+off-line training..
+ww.mathworks.com.
+ 
+
+learning episode:1
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:71.7,pscore:-110.5,pcomplete:0.0339286
+
+learning episode:3
+1 2 3 4 5 6 9 10 mstep:169.7,mscore:-29.7,mcomp:0.429464,mwin:0
+
+learning episode:3
+1 2 3 4 5 6 
+ans = 
+
+    [10x5 double]    5 x5 double]
+
+pwin:0,pstep:70.0333,pscore:-109.367,pcomplete:0.0327381
+
+learning episode:4
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+4 5 6 7 8 9 10 mstep:137.5,mscore:20.1,mcomp:0.440179,mwin:0
+
+learning episode:4
+1 2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+mstep:1408,mscore:-1086.6,mcomp:0.786607,mwin:0
+
+learning episode:2
+1 2 3 4 5 6 7 8 9 mstep:1408,mscore:-1086.6,mcomp:0.786607,mwin:0
+
+learning episode:2
+1 2 3 4 5 6 7 8 9 4 5 6 7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:134.2,mscore:87,mcomp:0.548214,mwin:0
+
+learning episode:5
+1 2 3 4 5 6  training..
+7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:68.1833,pscore:-108.45,pcomplete:0.0306548
+
+learning episode:7
+1 2 3 pwin:0,pstep:68.1833,pscore:-108.45,pcomplete:0.0306548
+
+learning episode:7
+1 2 3 4 5 
+test:
+1 2 
+off-li6  training..
+
+test:
+1 2 3 4 5 6 5 6 7 10 mstep:185.3,mscore:271.7,mcomp:0.958036,mwin:0.6
+
+learning episode:6
+1 2 3 4 5 6 7 8  episode:8
+1 2 pwin:0,pstep:70.7143,pscore:-111.229,pcomplete:0.030102
+
+learning episode:8
+1 2 mstep:891.4,mscore:-429.6,9 10 mstep:891.4,mscore:-429.6,mcomp:0.99375,mwin:0.4
+
+learning episode:3
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 10 ms
+test:
+1     [10x5 double]    [1x5 double]
+
+.4
+
+learning episode:3
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0,pstep:68.45,pscore:-108.75,pcomplete:0.0305804
+
+learning episode:9
+1 2 3 4 5 6 7 8 7 8 2 3 4 5 6 7 8 9 10 mstep:694.5,mscore:-272.5,mcomp:0.93125,mwin:0.2
+
+learning episode:4
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:65.3111,pscore:-105.8,pcomplete:0.0301587
+
+learning episode:10
+1 2 3 4 5 6 7 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:65.36,p10 5 6 7 8 9 10 
+off-line training..
+89286,mwin:0.7
+
+learning episode:8
+1 2 3 4 5 6 7 8 9  1
+test:
+1 2 3 raining..
+4 5 6 7 8 9 10 mstep:155
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:65.3818,pscore:-105.709,pcomplete:0.0305195
+
+learning episode:12
+1 2 3 4 5 pwin:0,pstep:65.3818,pscore:-105.709,pcomplete:0.0305195
+
+learning episode:12
+1 2 3 4 10 mstep:155.8,mscore
+test:
+1 2 p:0.871429,mwin:0.7
+
+learning episode:5
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+   
+test:
+1 2 3 4 5 6 1x5 double]
+
+pwin:0,pstep:64.6083,pscore:-104.742,pcomplete:0.0309524
+
+learning episode:13
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:155.8,mscore:283.1,mcomp:0.871429,mwin:0.7
+
+learning episode:5
+1 2 3 4 5 6 7 8 9 15 double]    [1x5 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+2 3 4 5 6 7 8 9 10 
+off-line training..
+mcomp:0.986607,mwin:0.4
+
+learning ep
+test:
+1 2  3 4 5 6 7  
+off-line training..
+3 4 5 6 7 8 9 10 mstep:178.5
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:63.4643,pscore:-103.864,pcomplete:0.0303571
+4 5 6 7 step:63.4643,pscore:-103.864,pcomplete:0.0303571
+
+learn3 4 5 isode:15
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 10 mstep:360.2,mscore:115.8,mcomp:0.986607,mwin:0.4
+
+learning episode:6
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+e]
+
+pwin:0,pstep:63.5733,pscore:-104,pcomplete:0.0302976
+
+learning episode:16
+1 2 3 4 5 6 pwin:0,pstep:63.5733,pscore:-104,pcomplete:0.0302976
+
+learning episode:16
+1 2 3 2 3 4 5 6 7 8 9 10 
+off-li7 8 raining..
+9 10 mstep:157.2,mscore:325.6,mcomp:0.944643,mwin:0.8
+
+learning episode:11
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.35,pscore:-102.875,pcomplete:0.0300781
+
+learning episode:17
+1 2 3 4 5 6 7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:172.7,mscore:259.7,mcomp:0.909821,mwin:0.4
+
+learning episode:7
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3471,pscore:-101.959,pcomplete:0.0298845
+
+learning episode:18
+1 2 3 4 5 6 7 8 9 10 7 8 9 10 
+off-line train7 8 9 10 
+off-line training..
+86,mwin:0.6
+
+learning episode:8
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.7889,pscore:-101.478,pcomplete:0.0297123
+
+learning episode:19
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:163.8,mscore:254.8,mcomp:0.871429,mwin:0.6
+
+learning e
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.3263,pscore:-101.084,pcomplete:010 mstep:163.7,mscore:267.3,mcomp:0.876786,mwin:0.6
+
+learning episode:8
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.83,pscore:-102.41,pcomplete:0.0299554
+
+learning episode:21
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 
+test:
+1 2 3 4 5 6 7 8 9
+ans = 
+
+    [10x9 10 mstep:168.2,mscore:323.1,mcomp:0.966071,mwin:0.9
+
+learning episode:14
+1 2 3 4 5 6 ete:0.0298044
+
+learning episode:22
+1 2 3 4 5 6 7 8 9 ning..
+10 3 4 5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.6318,pscore:-102.341,pcomplete:0.0296672
+
+learning episode:23
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1391,pscore:-101.904,pcomplete:0.0295419
+
+learning episode:28 9 2 3 4 5 6 7 8 9 10 
+off-line training..
+10 mstep:175.5,mscore:302.1,mcomp:0.965179,mwin:0.8
+
+learning episode:11
+1 2 3 4 5 6 7 8 8 9 10 mstep:155,mscore:317.8,mcomp:0.950893,mwin:0.8
+
+learning episode:15
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ing..
+5,pcomplete:0.0298363
+
+learning episode:25
+1 2 3 4 10  7 8 9 10 
+off-line training..
+
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:165.1,mscore:325.2,mcomp:0.961607,mwin:0.9
+
+learning episode:16
+1 2 earning episode:26
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:59.5577,pscore:-100.05,pcomplete:0.0301511
+
+learning episode:27
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.5,mscore:302.1,mcomp:0.965179,mwin:0.8
+
+learning episode:11
+1 2 ne training..
+..
+
+ans =
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:59.8,pscore:-100.348,pcomplete:0.0300265
+
+learning episode:28
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:153.6,mscore:291.3,mcomp:0.921429,mwin:0.7
+
+learning episode:17
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+141.4,mscore:261.8,
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:59.7571,pscore:-100.314,pcomplete:0.0300064
+
+learning episode:29
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:59.9414,pscore:-100.548,pcomplete:0.0298953
+
+learning episode:30
+1 2 3 4 5 6 7 8 7 8 9 10 
+off-line training.9 10 mstep:147.4,mscore:213.1,mcomp:0.819643,mwin:0.3
+
+learning episode:14
+1 2 3 4 5 6 7 8 6 7 8 9 10 
+off-line training..
+e]    [1x5 double]
+
+step:59.8067,pscore:-100.46,pcomplete:0.0297917
+
+learning episode:31
+1 2 3 4 5 6 7 pwin:0,pstep:59.8067,pscore:-100.46,pcomplete:0.0297917
+
+learning episode:31
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:59.2903,pscore:-99.9871,pcomplete:0.0296947
+
+learning episode:32
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:60.0656,pscore:-100.766,pcomplete:0.0296875
+
+learning episode:33
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+mstep:163,mscore:348.1,mcomp:0.95,mwin:0.9
+
+learning episode:15
+1 2 3 
+test:
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4242,pscore:-102.139,pcomplete:0.0296537
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:172,mscore:301.3,mcomp:0.932143,mwin:0.7
+
+learning episode:16
+1 2 3
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:172,mscore:301.3,mcomp:0.932143,mwin:0.7
+
+learning episode:16
+1 2 
+test:
+1 2 3 4 5 6 7 8 ine training..
+ble]
+
+pwin:0,pstep:61.4294,pscore:-102.159,pcomplete:0.0296218
+
+learning episode:35
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 mstep:173.7,mscore:281,mcomp:0.91875,mwin:0.7
+
+learning episode:20
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.76,pscore:-102.514,pcomplete:0.0295663
+
+learning episode:36
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.675,pscore:-102.364,pcomplete:0.029pwin:0,pste9 10 
+off-line training..
+310.1,mcomp:0.972321,mwin:0.9
+
+learning episode:17
+1 2 3 4 5 6 ff-line training..
+7 8 9 10 mstep:172.4,mscore:325.1,mcomp:0.960714,mwin:0.9
+
+learning episode:21
+1 2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1946,pscore:-101.919,pcomplete:0.0296332
+
+learning episode:38
+1 2 3 4 5 6 7 8 9 10 6 7 8 9 10 
+off-line train5 6 7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:180.4,mscore:274.5,mcomp:0.948214,mwin:0.7
+
+learning episode:22
+1 2 3 4 aining..
+5 6 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.6842,pscore:-102.442,pcomplete:0.0295583
+
+learning episode:39
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 doub
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5436,pscore:-102.333,pcomplete:0.0294872
+
+learning episode:40
+1 2 3 9 10 mstep:158.1,mscore:345,mcomp:0.967857,mwin:0.9
+
+learning episode:19
+1 2 3 4 5 6 7 8 9 10 9 10 mstep:158.1,mscore:
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0825,pscore:-101.902,pcomplete:0.0294196
+
+learning episode:41
+1 2 pwin:0,pstep:61.0825,pscore:-101.902,pcomplete:0.0294196
+
+learning episode:41
+1 2 3 4 5 6 7 8 9 10 
+off-li
+test:
+1 2 ..
+3 4 5 6 7 8 9 10 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:152,mscore:258,mcomp:0.908929,mwin:0.4
+
+learning episode:20
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+core:258,mcomp:0.908929,mwin:0.4
+
+learning episode:20
+1 2 3 mstep:138.4,mscore:286.9,mcomp:0.85,mwin:0.7
+
+learning episode:18
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.231,pscore:-102.079,pcomplete:0.029358
+
+learning episode:43
+1 2 3 
+test:
+1 2 3 4 5 6 ,pscore:-102.079,pcomplete:0.029358
+
+learning episode:43
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+7 8 9 10 mstep:180.8,mscore:305.5,mcomp:0.958036,mwin:0.9
+
+learning episode:25
+1 pwin:0,pstep:61.6116,pscore:-102.486,pcomplete:0.0292982
+
+learning episode:44
+1 2 3 4 5 6 pwin:0,pstep:61.6116,pscore:-102.486,pcomplete:0.0292982
+
+learning episode:44
+1 2 3 6 7 8 9 10 
+off-line training..
+g..
+p:0.871429,mwin:0.7
+
+learning episode:21
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+6 7 8 9 10 mstep:137.9,mscore:299,mcomp:0.871429,mwin:0.7
+
+learning episode:21
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+mplete:0.0292411
+
+learning episode:45
+1 2 37 8 9  7 8 9 10 
+off-line training..
+10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:148.6,mscore:327.8,mcomp:0.889286,mwin:0.8
+
+learning episode:22
+1 2 3 4 5 6 7 8 9 de:46
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:168.6,mscore:343.3,mcomp:0.997321,mwin:0.9
+
+learning episode:26
+1 2 3 029309
+
+learning episode:47
+1 2 3 4 5 6 ff-line training..
+7 8 9 9 12 3 4 5 6 7 8 9 10 mstep:152,mscore:258,mcomp:0.908929,mwin:0.4
+
+learning episode:20
+1 2 3 4 5 6 7 8 9 pwin:0,pstep:61.2277,pscore:-102.121,pcomplete:0.0292553
+
+learning episode:48
+1 2 3 
+test:
+1 2
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+comp:0.946429,mwin:0.7
+
+learning episode:23
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2854,pscore:-102.202,pcomplete:0.0292039
+
+learning episode:49
+1 2 3 4 5 6 7 8 9 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:137.9,mscore:299,mcomp:0.871429,mwin:0.7
+
+learning episode:21
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.3082,pscore:-102.247,pcomplete:0.0291545
+
+learning episode:50
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+8 9 training..
+10 mstep:149.7,mscore:304.9,mcomp:0.914286,mwin:0.8
+
+learning episode:24
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+-102.402,pcomplete:0.0291964
+
+learning episode:51
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:191.1,mscore:294.5,mcomp:0.974107,mwin:0.8
+
+learning episode:28
+1 2 learning episode:52
+1 2 3 pwin:0,pstep:61.2961,pscore:-102.237,pcomplete:0.0291492
+
+learning episode:52
+1 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:161.8,mscore:341.1,mcomp:0.983036,mwin:0.9
+
+learning episode:25
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+ore:-102.298,pcomplete:0.0291037
+
+learning episode:53
+1 2 3 4 5 10 mstep:161.8,mscore:341.1,mcomp:0.983036,mwin:0.9
+
+learning episode:25
+1 
+learning episode:53
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2849,pscore:-102.266,pcomplete:0.02906
+
+learning episode:54
+1 2 3 4 5 6 7 8 9 8 9 10 mstep:153.5,mscore:326.6,mcomp:0.946429,mwin:0.7
+
+learning episode:23
+1 2 3 4 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:165.4,mscore:309,mcomp:0.965179,mwin:0.8
+
+learning episode:
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.2944,pscore:-102.206,pcomplete:0.0292163
+
+learning episode:55
+1 2 3 4 5 pwin:0,pstep:61.2944,pscore:-102.206,pcomplete:0.0292163
+
+learning episode:55
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.0891,pscore:-101.882,pcomplete:0.0294805
+
+learning episode:56
+1 2 3 4 5 6 7 10 mstep:149.7,mscore:304.9,mcomp:0.914286,mwin:0.8
+
+learning episode:24
+1 2 3 4 
+ans = 
+
+    [10x5 double]    [1x5
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.1411,pscore:-101.955,pcomplete:0.0294324
+
+learning episode:57
+1 2 3 4 5 6 7 8 9 4 5 6 7 8 9 10 mstep:148.8,mscore:251.8,mcomp:0.8375,mwin:0.6
+
+learning episode:27
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.5333,pscore:-102.333,pcomplete:0.0294643
+
+learning episode:58
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:161.8,mscore:341.1,mcomp:0.983036,mwin:0.9
+
+learning episode:25
+1 2 3 4 5 6 7 8 9 10
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4552,pscore:-102.214,pcomplete:0.0295567
+
+learning episode:59
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.4552,pscore:-102.214,pcomplete:0.0295567
+
+learning episode:59
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.7881,pscore:-102.541,pcomplete:0.0295702
+
+learning episode:60
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1667,pscore:-102.927,pcomplete:0.0295536
+
+learning epis
+test:
+1 pwin:0,pstep:62.1667,pscore:-102.927,pcomplete:0.0295536
+
+learning episode:61
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1246,pscore:-102.787,pcomplete:0.0297717
+
+learning episode:62
+1 2 3 4 5 6 7 pwin:0,pstep:62.1246,pscore:-102.787,pcomplete:0.0297717
+
+learning episode:62
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0258,pscore:-102.652,pcomplete:0.0298531
+
+learning episode:63
+1 2 3 4 5 6 7 8 9 10 
+test:
+1 2 3 4 5 6 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:179.4,mscore:293.4,mcomp:0.949107,mwin:0.8
+
+learning episode:33
+1 2 3 4 5 6 7 8 ne training..
+e]    [1x5 double]
+
+te:0.0298611
+
+learning episode:64
+1 2 3 4 5 6 7 8 pwin:0,pstep:62.1286,pscore:-102.751,pcomplete:0.0298611
+
+learning episode:64
+1 4 5 6 7 8 9 10 mstep:164.3,mscore:352.7,mcomp:1,mwin:1
+
+learning episode:30
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.2297,pscore:-102.855,pcomplete:0.029841
+
+learning episode:65
+1 2 3 4 5 6 7 8 8 9 10 
+off-line training..
+raining..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:143.6,mscore:318,mcomp:0.900893,mwin:0.8
+
+learning episode:28
+1 2 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5354,pscore:-103.12,pcomplete:0.0299313
+
+learning episode:66
+1 2 3 4 5 mstep:164.4,mscore:283.2,mcomp:0.900893,mwin:0.8
+
+learning episode:31
+1 2 3 4 5 6 7 8 9 
+test:
+1 2 3 4 5 6 7 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5788,pscore:-103.112,pcomplete:0.030046
+
+learning episode:67
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5955,pscore:-103.151,pcomplete:0.0299973
+
+learning episode:68
+1 2 3 4 5 6 7 6 7 8 9 10 mstep:168.7,mscore:279,mcomp:0.91875,mwin:0.7
+
+learning episode:35
+1 2 3 4 5 6 7 8 9  5 6 7 8 ine training..
+7 8 9 10 mstep:175.8,mscore:311.5,mcomp:0.966071,mwin:0.9
+
+learning episode:29
+1 2 ff-line training..
+8 9 10 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+4 5 7 8 9 10 
+off-line training..
+[1x5 double]
+
+pwin:0,pstep:62.2,pscore:-102.729,pcomplete:0.0300551
+
+learning episo
+off-line training..
+ 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:136.1,mscore:278.1,mcomp:0.855357,mwin:0.6
+
+learning episode:33
+1 2 3 arning episode:70
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:161.3,mscore:319.2,mcomp:0.977679,mwin:0.9
+
+learning episode:36
+1 9 
+test:
+1 2 3 4 5 6 7 8 9 
+ans = 
+
+    [1
+off-line training..
+ouble]
+
+pwin:0,pstep:62.1643,pscore:-102.673,pcomplete:0.030102
+
+learning episode:71
+1 2 3 4 5 6 pwin:0,pstep:62.1643,pscore:-102.673,pcomplete:0.030102
+
+learning episode:71
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+.
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:174.2,mscore:253.9,mcomp:0.899107,mwin:0.7
+
+learning episode:37
+1 2 4 5 6 7 8 9 10 e:72
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+3 4 5 6 7 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:158.5,mscore:283,mcomp:0.927679,mwin:0.5
+
+learning episode:34
+1 2 3 4 5 6 7 8 
+test:
+1 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1111,pscore:-102.594,pcomplete:0.0301587
+
+learning episode:73
+1 2 3 4 5 6 7 6 7 8 9 10 
+off-line trainin7 8 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0055,pscore:-102.51,pcomplete
+ans = 
+
+    [10x5 double]    [1x5 doubl
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:175.4,mscore:321.4,mcomp:0.949107,mwin:0.8
+
+learning episode:38
+1 2 3 4 5 6 7 8 aining..
+6 7 8 9 10 
+off-line training..
+e]    [1x5 double]
+
+pwin:0,pstep:62.023,pscore:-102.547,pcomplete:0.0300676
+
+learning episode:75
+1 2 3 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+5 6 7 8 9 10 mstep:165.5,mscore:335.5,mcomp:1,mwin:1
+
+learning episode:32
+1 2 3 4 5 6 7 8 9  9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 ng..
+7 8 9 10 mstep:178.2,mscore:307.7,mcomp:0.955357,mwin:0.9
+
+learning episode:36
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+mstep:178.2,mscore:307.7,mcomp:0.955357,mwi7 8 9
+
+learning episode:36
+1 
+
+learning episode:76
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+9 10 mstep:189.9,mscore:289.2,mcomp:0.991071,mwin:0.9
+
+learning episode:39
+1 2 3 4 5 6 7 8 f-line training..
+  [1x5 double]
+
+ 3 4 5 6 7 8 9 10 
+off-line training..
+pwin:0,pstep:61.8711,pscore:-102.418,pcomplete:0.0300164
+
+learning episode:77
+1 2 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:136.1,mscore:278.1,mcomp:0.855357,mw
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9584,pscore:-102.525,pcomplete:0.0299745
+
+learning episode:78
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.0026,pscore:-102.485,pcomplete:0.0301625
+
+learning episode:79
+1 2 3 4 5 6 7 8 9 10 pwin:0,pstep:62.0026,pscore:-102.485,pcomplete:0.0301625
+
+learning episode:79
+1 2 
+test:
+1 2 3 4 5 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:158.2,mscore:314.6,mcomp:0.966964,mwin:0.8
+
+learning episode:37
+1 2 3 4 5 
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9709,pscore:-102.401,pcomplete:0.030278
+
+learning episode:80
+1 2 3 4 5 6 7 8 9 10 
+test:
+1 2 3 4 5 6 7 8 9 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+n:0.5
+
+learning episode:34
+1 2 3 4 5 6 7 aining..
+pwin:0,pstep:62.1375,pscore:
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.1375,pscore:-102.513,pcomplete:0.0304018
+
+learning episode:81
+1 2 3 4 5 6 7 8 9 
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:61.9494,pscore:-102.344,pcomplete:0.0303571
+
+learning episode:82
+1 2 3 4 5 6 3 
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:189.2,mscore:335.8,mcomp:1,mwin:1
+
+learning episode:41
+1 2 3 4 
+off-line training..
+8 9 10 
+off8 9 10 
+off-line training..
+  [1x5 double]
+
+pwin:0,pstep:62.1268,pscore:-102.532,pcomplete:0.0303354
+
+learning episode:83
+1 2 3 mstep:184.4,mscore:284.2,mcomp:0.958929,mwin:0.8
+
+learning episode:35
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+pisode:83
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+
+test:
+1 2 3 4 5 6 double]    [1x5 double]
+
+pwin:0,pstep:62.388,pscore:-102.783,pcomplete:0.0303571
+
+learning episode:88 9 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+test:
+1 2 3 4 5 6 7 8 9 10 mstep:159.1,mscore:298.1,mcomp:0.933036,mwin:0.8
+
+lea
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+7 8 9 10 
+off-line training..
+5 6 7 8 9 10 mstep:178.2,mscore:307.7,mcomp:0.955357,mwin:0.9
+
+learning episode:36
+1 2 3 4 
+1 2 3 4 5 6 7 8 9 10 
+off-line training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5765,pscore:-102.991,pcomplete:0.0303151
+
+learning episode:86
+1 2 3 4 5 6 7 8 pwin:0,pstep:62.5765,pscor7 8 9 10 mstep:184.6,mscore:335.7,mcomp:0.998214,mwin:0.9
+
+learning episode:40
+1 e training..
+
+ans = 
+
+    [10x5 double]    [1x5 double]
+
+pwin:0,pstep:62.5163,pscore:-102.949,pcomplete:0.0302741
+
+learning episode:87
+1 2 3 4 5 6 7 8 pwin:0,pstep:62.5163,pscore:-102.949,pcomplete:0.0302741
+
+learning episode:87
+1 4 5 6 7 8 9 10 mstep:184.6,mscore:335.7,mcomp:0.998214,mwin:0.9
+
+learning episode:40
+1 2 3 4 5 6 7 8 
